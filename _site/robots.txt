@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://neoroman.github.io/sitemap.xml

@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Able to effectively self-manage during independent projects, 
   as well as collaborate as part of a productive team.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://neoroman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: neoroman
 github_username:  neoroman
 
