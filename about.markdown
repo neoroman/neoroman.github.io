@@ -37,12 +37,12 @@ Experienced iOS Developer adept in bringing forth expertise in design, installat
 - ★★★☆☆ English
 
 ### SKILLS
-- ★★★★★ Git
 - ★★★★★ iOS Development
 - ★★★★★ Objective-C
 - ★★★★★ Swift
-- ★★★☆☆ Bash Scripting
+- ★★★★★ Git
 - ★★★★☆ RxSwift
+- ★★★☆☆ Bash Scripting
 
 ### WORK EXPERIENCE
   * January 2009 – Present
