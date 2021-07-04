@@ -6,29 +6,33 @@ categories: GraphQL tutorial
 ---
 
 ---
-### Contents
-- GraphQL 이란?
-- 왜 GraphQL 인가?
-- GraphQL 준비
-- GraphQL의 장점과 단점
-- GraphQL과 오픈소스: Open API 및 Swagger
-- GraphQL 시작
-- GraphQL 중간
-- GraphQL 끝
-- Further Study
-- References
+## Contents
+- [GraphQL 이란?][section-01]
+- [왜 GraphQL 인가?][section-02]
+- [GraphQL의 장점과 단점][section-03]
+- [GraphQL과 오픈소스: Open API 및 Swagger][section-04]
+- [GraphQL 준비][section-05]
+- [GraphQL 문법][section-06]
+- [GraphQL 시작(start)][section-07]
+- [GraphQL 끝(final)][section-08]
+- [Further Study][section-09]
+- [References][section-10]
 
 ---
 
+  
+<BR />
 
-
-# GraphQL 이란?
+# [GraphQL 이란?](#GraphQL 이란?)
 - API를 위한 쿼리 언어
 - 기 존재하는 데이터 쿼리를 수행하기 위한 런타임
 - API 진화의 강력한 개발자 도구: playground
-  
 
-# 왜 GraphQL 인가?
+
+<BR />
+
+
+# [왜 GraphQL 인가?](#왜 GraphQL 인가?)
 - Over fetching
   * 기존, 예를들어 사용자 정보에 불필요한 부분이 REST API에 포함되있다면, Front 전체를 다 받아서 parsing 해야함
   * GraphQL을 사용하면 Front가 원하는 정보만 요청할 수 있음
@@ -56,8 +60,11 @@ categories: GraphQL tutorial
   * 검색 기능이 내장된 Document 기본 제공
   * Schema 다운로드 기능 기본 제공
 
+  
+<BR />
 
-# GraphQL 장점과 단점
+
+# [GraphQL 장점과 단점](#GraphQL 장점과 단점)
 - GraphQL 장점
   * GraphQL 스키마는 GraphQL 애플리케이션(Front)에 신뢰할 수 있는 단일 소스를 하나 제공 => Query.graphql or Query.json
   * GraphQL 호출은 단일 왕복으로 처리되며 클라이언트는 오버페칭 없이 요청한 결과만 얻음
@@ -74,8 +81,11 @@ categories: GraphQL tutorial
   * 캐싱이 REST보다 훨씬 복잡함
   * API 유지관리자의 경우 유지 관리 가능한 GraphQL 스키마를 작성하기 위한 추가 태스크를 수행해야 함
 
+  
+<BR />
 
-# GraphQL과 오픈소스: Open API 및 Swagger
+
+# [GraphQL과 오픈소스: Open API 및 Swagger](#GraphQL과 오픈소스: Open API 및 Swagger)
 {% highlight swift %}
   GraphQL은 Facebook에서 개발했으며 2012년에는 모바일 애플리케이션을 위해 사용됨
   GraphQL 사양은 2015년에 오픈소스로 공개됨
@@ -86,42 +96,290 @@ categories: GraphQL tutorial
 - [Graphback][graphback]: GraphQL 지원 Node.js 서버를 생성하기 위한 커맨드라인 클라이언트
 - [OpenAPI-GraphQL][openapi-graphql]: OpenAPI 사양 또는 Swagger로 설명된 API를 GraphQL로 번역하기 위한 커맨드라인 인터페이스 및 라이브러리
 
+  
+<BR />
 
-# GraphQL 준비
+
+# [GraphQL 준비](#GraphQL%20준비)
 - [GraphQL tutorial][graphql-tutorial] 튜토리얼 준비물 다운로드
   * 서버개발자: [REAME.md][top-readme]의 내용을 읽고 starter > final 순으로 진행
   * 앱개발자: [Final > README.md][final-readme] 내용을 읽고 final 설치 후 각각 [iOS][client-ios], [Android][client-android]로 진행
 
+  
+<BR />
 
-# GraphQL 시작
-- ...
+
+
+# [GraphQL 문법](#GraphQL%20문법)
 - GraphQL Schema Language Cheat Sheet
-
 ![GraphQL Cheat Sheet](https://miro.medium.com/max/5052/1*HaEeoGrja2IGUxzvmj5Vnw.png)
 
 
-# GraphQL 중간
-- ...
+<BR />
+<BR />
 
 
-# GraphQL 끝
-- ...
+# [GraphQL 시작](#GraphQL 시작) ([github][starter-readme])
+
+### 서버 설치
+
+  1. MySQL 서버 설치
+     * `mysql`  홈브루( [HomeBrew][homebrew] )를 통한 `MySQL` 설치
+        ```
+        $ brew install mysql
+        ```
+     * `MySQL` 데몬 서비스 등록하기 (선택)
+        ```
+        $ brew services start mysql
+        ```
+     * `MySQL` 데이터베이스 `root` 사용자 암호 설정하기
+        ```
+        $ mysql -uroot
+        mysql> USE mysql
+        mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'qwer1234';
+        mysql> FLUSH PRIVILEGES;
+        mysql> quit
+        ```
+     * `sample_db_graphql` 데이터 베이스 생성하기
+        ```
+        $ mysql -uroot -p
+        mysql> CREATE DATABASE sample_db_graphql;
+        mysql> quit
+        ```
+    
+  2. `seeders/dump-sample_db_graphql.sql` 파일로부터 DB 복원하기
+     ```
+     $ mysql -uroot -p sample_db_graphql < ./seeders/dump-sample_db_graphql.sql
+     ```
+    
+  3. npm 의존성 패키지 설치하기
+     ```
+     $ npm install
+     ```
+        3.1 If `sh: nodemon: command not found` error occurred
+        ```
+        $ npm i -g nodemon
+        ```
+
+### 서버 설치
+  1. npm 으로 서버 시작하기
+     ```
+     $ npm start
+     ```
+     * 다음과 같은 메세지와 `localhost`의 4000번 포트에 서버가 시작된다.
+
+      ```
+      [nodemon] 2.0.7
+      [nodemon] to restart at any time, enter `rs`
+      [nodemon] watching path(s): *.*
+      [nodemon] watching extensions: js,mjs,json
+      [nodemon] starting `babel-node index.js`
+      Graphql Server Running on localhost:4000
+      ```
+      > 언제든지 `Ctrl-C`를 눌러서 서버를 중단할 수 있다.
+
+  <BR />
+
+### Generate models for GraphQL
+
+  1. 다음 주소를 즐겨사용하는 웹 브라우져 주소창에 넣고 이동한다. 
+    [http://localhost:4000/play][playground-screenshot] (구글 크롬 추천)
+
+  2. 다음과 같이 쿼리를 입력해본다.
+     ``` graphql
+     query {
+        getUserInfo(id: "neoroman") {
+          id
+          name
+        }
+     }
+     ```
+  ![Playground.GIF](https://github.com/neoroman/GraphQL-tutorial/raw/main/screenshots/02_input_query_in_playground.gif)
+
+  3. 플레이 버튼을 누르면 다음과 같은 오류가 발생한다.
+     ```
+     ...
+     Error: Cannot return null for non-nullable field Query.getUserInfo.
+     ...
+     ```
+     > 이 오류는 GraphQL 리졸버(resolver)와 MySQL와 연결해주는 모델(model)이 부재하여 발생한 것이다.
+
+  4. `sequelize-auto` 설치 (설치하지 않았다면)
+     ```
+     $ brew sequelize-auto
+     ```
+
+  5. MySQL 데이터베이스 `root` 패스워드 = `qwer1234`로 `sequelize-auto`를 실행하여 `GraphQL Schema`를 생성
+     * 경고: 패스워드를 커맨드 입력란에 기입하는 것은 보안에 위험할 수 있음
+     ```
+     $ sequelize-auto -c config/sequelize-auto.config.json -x qwer1234
+     ```
+      > 이제 `{TABLE_NAME}.js` 파일들을 `./models` 내에서 확인할 수 있다.
+
+  6. `graphql/resolvers.js` 파일을 연다.
+    - 다음의 코드와 다른 부분을 수정한다.
+      ``` javascript
+      const resolvers = {
+          Query: {
+              getUserInfo: async (parent, args, context, info) => {
+                  try { 
+                      // 1
+                      let userId = { id: args.id }
+                      const items = await AdminUser.findAll({ where: userId });
+                      return items; 
+                  } 
+                  catch(err) {console.log(err);} 
+              }
+          },
+          Mutation: {
+              putUserInfo: async (parent, args, context, info) => {
+                  try {
+                      // 2
+                      const user = await AdminUser.findOne({ where: { id: args.id } });
+                      if (user) {
+                          if (args.password) {
+                              user.set('password', args.password);
+                              user.set('updateTime', (new Date()));
+                          }
+                          if (args.email) {
+                              user.set('email', args.email);
+                          }
+                          return await user.save();
+                      }
+                      return new Error("putUserInfo: cannot find user:", args.id);
+                  }
+                  catch(err) {
+                      console.log(err)
+                      return new Error("putUserInfo", err);
+                  };
+              }
+          }
+      }
+      ``` 
+      - 1번은 args.id를 이용해서 `AdminUser` 테이블을 조회한 결과를 리턴한다.
+      - 2번은 args.id등 입력 인자들을 이용해서 `AdminUser` 테이블의 사용자 정보를 수정한다.
+  7. `play` 버튼을 다시 눌러보면, 이제 성공 결과를 확인할 수 있다. 짜잔
+  ![Playground Query Success](https://github.com/neoroman/GraphQL-tutorial/raw/main/screenshots/03_playground_result_success.png)
 
 
-# Further Study
+<BR />
+<BR />
+
+
+  <!-- * [GraphQL 끝](GraphQL 끝) -->
+# [GraphQL 끝](#GraphQL 끝) ([github][final-readme])
+  * Sample of GraphQL-Yoga + Express + JWT
+  
+    
+  <BR />
+
+### 서버 설치
+
+
+  1. MySQL 서버 설치
+     * `mysql`  홈브루( [HomeBrew][homebrew] )를 통한 `MySQL` 설치
+        ```
+        $ brew install mysql
+        ```
+     * `MySQL` 데몬 서비스 등록하기 (선택)
+        ```
+        $ brew services start mysql
+        ```
+     * `MySQL` 데이터베이스 `root` 사용자 암호 설정하기
+        ```
+        $ mysql -uroot
+        mysql> USE mysql
+        mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'qwer1234';
+        mysql> FLUSH PRIVILEGES;
+        mysql> quit
+        ```
+     * `sample_db_graphql` 데이터 베이스 생성하기
+        ```
+        $ mysql -uroot -p
+        mysql> CREATE DATABASE sample_db_graphql;
+        mysql> quit
+        ```
+    
+  2. `seeders/dump-sample_db_graphql.sql` 파일로부터 DB 복원하기
+     ```
+     $ mysql -uroot -p sample_db_graphql < ./seeders/dump-sample_db_graphql.sql
+     ```
+    
+  3. npm 의존성 패키지 설치하기
+     ```
+     $ npm install
+     ```
+        3.1 If `sh: nodemon: command not found` error occurred
+        ```
+        $ npm i -g nodemon
+        ```
+
+### 서버 실행
+  1. npm 으로 서버 시작하기
+     ```
+     $ npm start
+     ```
+     * 다음과 같은 메세지와 `localhost`의 4000번 포트에 서버가 시작된다.
+
+      ```
+      [nodemon] 2.0.7
+      [nodemon] to restart at any time, enter `rs`
+      [nodemon] watching path(s): *.*
+      [nodemon] watching extensions: js,mjs,json
+      [nodemon] starting `babel-node index.js`
+      Graphql Server Running on localhost:4000
+      ```
+      > 언제든지 `Ctrl-C`를 눌러서 서버를 중단할 수 있다.
+
+  2. Violla, now you can connect localhost:4000/play on your web brower, see next [section][graphql-playground]
+
+
+  3. (TODO) 심화학습 추가하기
+
+
+<BR />
+
+### GraphQL playground
+  1. Open your favorite web browser (recommend Goolge Chrome)
+  2. Paste and go to http://localhost:4000/play
+  3. You could check like followings:
+   [![Screenshot](https://github.com/neoroman/GraphQL-tutorial/blob/main/screenshots/01_GraphQL-playground.png?raw=true)][playground-screenshot]
+  1. Copy and paste [graphql/playgroundQuery.txt][schema-graphql] queries into left pane of GraphQL playground
+
+
+  <BR />
+
+### Authentication (Optional)
+  1. Client call /secure with ID and Password
+  2. /secure response is JWT(JSON Web Token)
+  3. Client set header of request with token: `{given token}`
+  4. Check token validation with /secure/check
+  5. Client receive error unless JWT header for request
+
+  
+
+
+<BR />
+
+
+# [Further Study](#Further Study)
 - [GraphQL Tools][graphql-tools] 활용 방법 Study
 - 파일 업로드 지원
 - GraphQL 구독을 사용한 실시간 기능
 - TypeScript 지원
 - 쿼리 성능 추적
 
-# References
+  
+<BR />
+
+# [References](#References)
 * [GraphQL: Guides and Best Practices][graphql-guide]
 * [GraphQL-yoga 소개 및 간단한 활용][graphql-yoga-intro]
 * [GraphQL - Node Tutorial - 02. Getting Started][graphql-node-tutorial2]
 * [Redhat: GraphQL이란?][redhat-graphql]
 
 
+  
 <!-- 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -143,6 +401,7 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. -->
 
+[homebrew]: https://brew.sh/index_ko
 [sequelize-auto]:   https://github.com/sequelize/sequelize-auto
 [graphql-tools]: https://github.com/ardatan/graphql-tools
 [graphql-tutorial]: https://github.com/neoroman/GraphQL-tutorial
@@ -161,3 +420,17 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [offix]: https://offix.dev/
 [graphback]: https://graphback.dev/
 [openapi-graphql]: https://github.com/IBM/openapi-to-graphql
+[sql-file]: https://raw.githubusercontent.com/neoroman/GraphQL-tutorial/main/final/migrations/dump-sample_db_graphql.sql
+[schema-graphql]: https://raw.githubusercontent.com/neoroman/GraphQL-tutorial/main/final/graphql/playgroundQuery.txt
+[playground-screenshot]: http://localhost:4000/play
+[graphql-playground]: https://github.com/neoroman/GraphQL-tutorial/tree/main/final#graphql-playground
+[section-01]: /GraphQL-tutorial/#GraphQL%20이란?
+[section-02]: /GraphQL-tutorial/#왜%20GraphQL%20인가?
+[section-03]: /GraphQL-tutorial/#GraphQL의%20장점과%20단점
+[section-04]: /GraphQL-tutorial/#GraphQL과%20오픈소스:%20Open%20API%20및%20Swagger
+[section-05]: /GraphQL-tutorial/#GraphQL%20준비
+[section-06]: /GraphQL-tutorial/#GraphQL%20문법
+[section-07]: /GraphQL-tutorial/#GraphQL%시작
+[section-08]: /GraphQL-tutorial/#GraphQL%20끝
+[section-09]: /GraphQL-tutorial/#Further%20Study
+[section-10]: /GraphQL-tutorial/#References

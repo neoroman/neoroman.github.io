@@ -1,28 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://neoroman.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://neoroman.github.io/" rel="alternate" type="text/html" /><updated>2021-07-01T13:26:58+09:00</updated><id>https://neoroman.github.io/feed.xml</id><title type="html">NeoRoman</title><subtitle>Experienced iOS Developer adept in bringing forth expertise in design,  installation, testing and maintenance of software systems.   Experienced with the latest cutting edge development tools and procedures.    Able to effectively self-manage during independent projects,  as well as collaborate as part of a productive team.</subtitle><entry><title type="html">GraphQL-tutorial</title><link href="https://neoroman.github.io/GraphQL-tutorial/" rel="alternate" type="text/html" title="GraphQL-tutorial" /><published>2021-06-30T14:17:49+09:00</published><updated>2021-06-30T14:17:49+09:00</updated><id>https://neoroman.github.io/GraphQL-tutorial</id><content type="html" xml:base="https://neoroman.github.io/GraphQL-tutorial/">&lt;hr /&gt;
-&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2021-07-05T09:45:45+09:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">NeoRoman</title><subtitle>Experienced iOS Developer adept in bringing forth expertise in design,  installation, testing and maintenance of software systems.   Experienced with the latest cutting edge development tools and procedures.    Able to effectively self-manage during independent projects,  as well as collaborate as part of a productive team.</subtitle><entry><title type="html">GraphQL-tutorial</title><link href="http://localhost:3000/GraphQL-tutorial/" rel="alternate" type="text/html" title="GraphQL-tutorial" /><published>2021-06-30T14:17:49+09:00</published><updated>2021-06-30T14:17:49+09:00</updated><id>http://localhost:3000/GraphQL-tutorial</id><content type="html" xml:base="http://localhost:3000/GraphQL-tutorial/">&lt;hr /&gt;
+&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;GraphQL 이란?&lt;/li&gt;
-  &lt;li&gt;왜 GraphQL 인가?&lt;/li&gt;
-  &lt;li&gt;GraphQL 준비&lt;/li&gt;
-  &lt;li&gt;GraphQL의 장점과 단점&lt;/li&gt;
-  &lt;li&gt;GraphQL과 오픈소스: Open API 및 Swagger&lt;/li&gt;
-  &lt;li&gt;GraphQL 시작&lt;/li&gt;
-  &lt;li&gt;GraphQL 중간&lt;/li&gt;
-  &lt;li&gt;GraphQL 끝&lt;/li&gt;
-  &lt;li&gt;Further Study&lt;/li&gt;
-  &lt;li&gt;References&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#GraphQL%20이란?&quot;&gt;GraphQL 이란?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#왜%20GraphQL%20인가?&quot;&gt;왜 GraphQL 인가?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#GraphQL의%20장점과%20단점&quot;&gt;GraphQL의 장점과 단점&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#GraphQL과%20오픈소스:%20Open%20API%20및%20Swagger&quot;&gt;GraphQL과 오픈소스: Open API 및 Swagger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#GraphQL%20준비&quot;&gt;GraphQL 준비&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#GraphQL%20문법&quot;&gt;GraphQL 문법&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#GraphQL%시작&quot;&gt;GraphQL 시작(start)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#GraphQL%20끝&quot;&gt;GraphQL 끝(final)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#Further%20Study&quot;&gt;Further Study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#References&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;graphql-이란&quot;&gt;GraphQL 이란?&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;graphql-이란&quot;&gt;&lt;a href=&quot;#GraphQL 이란?&quot;&gt;GraphQL 이란?&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;API를 위한 쿼리 언어&lt;/li&gt;
   &lt;li&gt;기 존재하는 데이터 쿼리를 수행하기 위한 런타임&lt;/li&gt;
   &lt;li&gt;API 진화의 강력한 개발자 도구: playground&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;왜-graphql-인가&quot;&gt;왜 GraphQL 인가?&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;왜-graphql-인가&quot;&gt;&lt;a href=&quot;#왜 GraphQL 인가?&quot;&gt;왜 GraphQL 인가?&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;Over fetching
     &lt;ul&gt;
@@ -63,7 +67,9 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;graphql-장점과-단점&quot;&gt;GraphQL 장점과 단점&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;graphql-장점과-단점&quot;&gt;&lt;a href=&quot;#GraphQL 장점과 단점&quot;&gt;GraphQL 장점과 단점&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;GraphQL 장점
     &lt;ul&gt;
@@ -88,7 +94,9 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;graphql과-오픈소스-open-api-및-swagger&quot;&gt;GraphQL과 오픈소스: Open API 및 Swagger&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;graphql과-오픈소스-open-api-및-swagger&quot;&gt;&lt;a href=&quot;#GraphQL과 오픈소스: Open API 및 Swagger&quot;&gt;GraphQL과 오픈소스: Open API 및 Swagger&lt;/a&gt;&lt;/h1&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-swift&quot; data-lang=&quot;swift&quot;&gt;  &lt;span class=&quot;kt&quot;&gt;GraphQL은&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Facebook에서&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;개발했으며&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2012&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;년에는&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;모바일&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;애플리케이션을&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;위해&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;사용됨&lt;/span&gt;
   &lt;span class=&quot;kt&quot;&gt;GraphQL&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;사양은&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;년에&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;오픈소스로&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;공개됨&lt;/span&gt;
@@ -101,7 +109,9 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/IBM/openapi-to-graphql&quot;&gt;OpenAPI-GraphQL&lt;/a&gt;: OpenAPI 사양 또는 Swagger로 설명된 API를 GraphQL로 번역하기 위한 커맨드라인 인터페이스 및 라이브러리&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;graphql-준비&quot;&gt;GraphQL 준비&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;graphql-준비&quot;&gt;&lt;a href=&quot;#GraphQL%20준비&quot;&gt;GraphQL 준비&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/neoroman/GraphQL-tutorial&quot;&gt;GraphQL tutorial&lt;/a&gt; 튜토리얼 준비물 다운로드
     &lt;ul&gt;
@@ -111,25 +121,278 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;graphql-시작&quot;&gt;GraphQL 시작&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;graphql-문법&quot;&gt;&lt;a href=&quot;#GraphQL%20문법&quot;&gt;GraphQL 문법&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;…&lt;/li&gt;
-  &lt;li&gt;GraphQL Schema Language Cheat Sheet&lt;/li&gt;
+  &lt;li&gt;GraphQL Schema Language Cheat Sheet
+&lt;img src=&quot;https://miro.medium.com/max/5052/1*HaEeoGrja2IGUxzvmj5Vnw.png&quot; alt=&quot;GraphQL Cheat Sheet&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/5052/1*HaEeoGrja2IGUxzvmj5Vnw.png&quot; alt=&quot;GraphQL Cheat Sheet&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;graphql-중간&quot;&gt;GraphQL 중간&lt;/h1&gt;
+&lt;h1 id=&quot;graphql-시작-github&quot;&gt;&lt;a href=&quot;#GraphQL 시작&quot;&gt;GraphQL 시작&lt;/a&gt; (&lt;a href=&quot;https://github.com/neoroman/GraphQL-tutorial/tree/main/starter#graphql-tutorial-starter&quot;&gt;github&lt;/a&gt;)&lt;/h1&gt;
+
+&lt;h3 id=&quot;서버-설치&quot;&gt;서버 설치&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;MySQL 서버 설치
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mysql&lt;/code&gt;  홈브루( &lt;a href=&quot;https://brew.sh/index_ko&quot;&gt;HomeBrew&lt;/a&gt; )를 통한 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MySQL&lt;/code&gt; 설치
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; $ brew install mysql
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MySQL&lt;/code&gt; 데몬 서비스 등록하기 (선택)
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; $ brew services start mysql
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MySQL&lt;/code&gt; 데이터베이스 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;root&lt;/code&gt; 사용자 암호 설정하기
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; $ mysql -uroot
+ mysql&amp;gt; USE mysql
+ mysql&amp;gt; ALTER USER 'root'@'localhost' IDENTIFIED BY 'qwer1234';
+ mysql&amp;gt; FLUSH PRIVILEGES;
+ mysql&amp;gt; quit
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sample_db_graphql&lt;/code&gt; 데이터 베이스 생성하기
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; $ mysql -uroot -p
+ mysql&amp;gt; CREATE DATABASE sample_db_graphql;
+ mysql&amp;gt; quit
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;seeders/dump-sample_db_graphql.sql&lt;/code&gt; 파일로부터 DB 복원하기
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mysql -uroot -p sample_db_graphql &amp;lt; ./seeders/dump-sample_db_graphql.sql
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;npm 의존성 패키지 설치하기
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ npm install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;3.1 If &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sh: nodemon: command not found&lt;/code&gt; error occurred&lt;/p&gt;
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;   $ npm i -g nodemon
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;서버-설치-1&quot;&gt;서버 설치&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;npm 으로 서버 시작하기
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ npm start
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;ul&gt;
+      &lt;li&gt;다음과 같은 메세지와 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost&lt;/code&gt;의 4000번 포트에 서버가 시작된다.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; [nodemon] 2.0.7
+ [nodemon] to restart at any time, enter `rs`
+ [nodemon] watching path(s): *.*
+ [nodemon] watching extensions: js,mjs,json
+ [nodemon] starting `babel-node index.js`
+ Graphql Server Running on localhost:4000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;언제든지 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ctrl-C&lt;/code&gt;를 눌러서 서버를 중단할 수 있다.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;generate-models-for-graphql&quot;&gt;Generate models for GraphQL&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;다음 주소를 즐겨사용하는 웹 브라우져 주소창에 넣고 이동한다. 
+    &lt;a href=&quot;http://localhost:4000/play&quot;&gt;http://localhost:4000/play&lt;/a&gt; (구글 크롬 추천)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;다음과 같이 쿼리를 입력해본다.
+    &lt;div class=&quot;language-graphql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;query&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+   &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getUserInfo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;neoroman&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+     &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+   &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/GraphQL-tutorial/raw/main/screenshots/02_input_query_in_playground.gif&quot; alt=&quot;Playground.GIF&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;플레이 버튼을 누르면 다음과 같은 오류가 발생한다.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;...
+Error: Cannot return null for non-nullable field Query.getUserInfo.
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;이 오류는 GraphQL 리졸버(resolver)와 MySQL와 연결해주는 모델(model)이 부재하여 발생한 것이다.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sequelize-auto&lt;/code&gt; 설치 (설치하지 않았다면)
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ brew sequelize-auto
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;MySQL 데이터베이스 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;root&lt;/code&gt; 패스워드 = &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;qwer1234&lt;/code&gt;로 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sequelize-auto&lt;/code&gt;를 실행하여 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GraphQL Schema&lt;/code&gt;를 생성
+    &lt;ul&gt;
+      &lt;li&gt;경고: 패스워드를 커맨드 입력란에 기입하는 것은 보안에 위험할 수 있음
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sequelize-auto -c config/sequelize-auto.config.json -x qwer1234
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;blockquote&gt;
+          &lt;p&gt;이제 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{TABLE_NAME}.js&lt;/code&gt; 파일들을 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;./models&lt;/code&gt; 내에서 확인할 수 있다.&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;graphql/resolvers.js&lt;/code&gt; 파일을 연다.
+    - 다음의 코드와 다른 부분을 수정한다.
+    &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;resolvers&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+     &lt;span class=&quot;na&quot;&gt;Query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+         &lt;span class=&quot;na&quot;&gt;getUserInfo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;parent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+             &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; 
+                 &lt;span class=&quot;c1&quot;&gt;// 1&lt;/span&gt;
+                 &lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;userId&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+                 &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;items&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;AdminUser&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;findAll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;where&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;userId&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+                 &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+             &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; 
+             &lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);}&lt;/span&gt; 
+         &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+     &lt;span class=&quot;na&quot;&gt;Mutation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+         &lt;span class=&quot;na&quot;&gt;putUserInfo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;parent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+             &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                 &lt;span class=&quot;c1&quot;&gt;// 2&lt;/span&gt;
+                 &lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;AdminUser&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;findOne&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;where&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+                 &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                     &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                         &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                         &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;updateTime&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()));&lt;/span&gt;
+                     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+                     &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                         &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+                     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+                     &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;save&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+                 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+                 &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;putUserInfo: cannot find user:&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+             &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+             &lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+                 &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+                 &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;putUserInfo&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+             &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+         &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1번은 args.id를 이용해서 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;AdminUser&lt;/code&gt; 테이블을 조회한 결과를 리턴한다.&lt;/li&gt;
+      &lt;li&gt;2번은 args.id등 입력 인자들을 이용해서 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;AdminUser&lt;/code&gt; 테이블의 사용자 정보를 수정한다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;play&lt;/code&gt; 버튼을 다시 눌러보면, 이제 성공 결과를 확인할 수 있다. 짜잔
+  &lt;img src=&quot;https://github.com/neoroman/GraphQL-tutorial/raw/main/screenshots/03_playground_result_success.png&quot; alt=&quot;Playground Query Success&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- * [GraphQL 끝](GraphQL 끝) --&gt;&lt;/p&gt;
+&lt;h1 id=&quot;graphql-끝-github&quot;&gt;&lt;a href=&quot;#GraphQL 끝&quot;&gt;GraphQL 끝&lt;/a&gt; (&lt;a href=&quot;https://github.com/neoroman/GraphQL-tutorial/tree/main/final#graphql-tutorial-for-final&quot;&gt;github&lt;/a&gt;)&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;…&lt;/li&gt;
+  &lt;li&gt;Sample of GraphQL-Yoga + Express + JWT&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;graphql-끝&quot;&gt;GraphQL 끝&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;…&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;further-study&quot;&gt;Further Study&lt;/h1&gt;
+&lt;h3 id=&quot;서버-설치-2&quot;&gt;서버 설치&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;MySQL 서버 설치
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mysql&lt;/code&gt;  홈브루( &lt;a href=&quot;https://brew.sh/index_ko&quot;&gt;HomeBrew&lt;/a&gt; )를 통한 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MySQL&lt;/code&gt; 설치
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; $ brew install mysql
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MySQL&lt;/code&gt; 데몬 서비스 등록하기 (선택)
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; $ brew services start mysql
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MySQL&lt;/code&gt; 데이터베이스 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;root&lt;/code&gt; 사용자 암호 설정하기
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; $ mysql -uroot
+ mysql&amp;gt; USE mysql
+ mysql&amp;gt; ALTER USER 'root'@'localhost' IDENTIFIED BY 'qwer1234';
+ mysql&amp;gt; FLUSH PRIVILEGES;
+ mysql&amp;gt; quit
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sample_db_graphql&lt;/code&gt; 데이터 베이스 생성하기
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; $ mysql -uroot -p
+ mysql&amp;gt; CREATE DATABASE sample_db_graphql;
+ mysql&amp;gt; quit
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;seeders/dump-sample_db_graphql.sql&lt;/code&gt; 파일로부터 DB 복원하기
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mysql -uroot -p sample_db_graphql &amp;lt; ./seeders/dump-sample_db_graphql.sql
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;npm 의존성 패키지 설치하기
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ npm install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;3.1 If &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sh: nodemon: command not found&lt;/code&gt; error occurred&lt;/p&gt;
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;   $ npm i -g nodemon
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;서버-실행&quot;&gt;서버 실행&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;npm 으로 서버 시작하기
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ npm start
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;ul&gt;
+      &lt;li&gt;다음과 같은 메세지와 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost&lt;/code&gt;의 4000번 포트에 서버가 시작된다.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; [nodemon] 2.0.7
+ [nodemon] to restart at any time, enter `rs`
+ [nodemon] watching path(s): *.*
+ [nodemon] watching extensions: js,mjs,json
+ [nodemon] starting `babel-node index.js`
+ Graphql Server Running on localhost:4000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;언제든지 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ctrl-C&lt;/code&gt;를 눌러서 서버를 중단할 수 있다.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Violla, now you can connect localhost:4000/play on your web brower, see next &lt;a href=&quot;https://github.com/neoroman/GraphQL-tutorial/tree/main/final#graphql-playground&quot;&gt;section&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;(TODO) 심화학습 추가하기&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;graphql-playground&quot;&gt;GraphQL playground&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Open your favorite web browser (recommend Goolge Chrome)&lt;/li&gt;
+  &lt;li&gt;Paste and go to http://localhost:4000/play&lt;/li&gt;
+  &lt;li&gt;You could check like followings:
+   &lt;a href=&quot;http://localhost:4000/play&quot;&gt;&lt;img src=&quot;https://github.com/neoroman/GraphQL-tutorial/blob/main/screenshots/01_GraphQL-playground.png?raw=true&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Copy and paste &lt;a href=&quot;https://raw.githubusercontent.com/neoroman/GraphQL-tutorial/main/final/graphql/playgroundQuery.txt&quot;&gt;graphql/playgroundQuery.txt&lt;/a&gt; queries into left pane of GraphQL playground&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;authentication-optional&quot;&gt;Authentication (Optional)&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Client call /secure with ID and Password&lt;/li&gt;
+  &lt;li&gt;/secure response is JWT(JSON Web Token)&lt;/li&gt;
+  &lt;li&gt;Client set header of request with token: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{given token}&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Check token validation with /secure/check&lt;/li&gt;
+  &lt;li&gt;Client receive error unless JWT header for request&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;further-study&quot;&gt;&lt;a href=&quot;#Further Study&quot;&gt;Further Study&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/ardatan/graphql-tools&quot;&gt;GraphQL Tools&lt;/a&gt; 활용 방법 Study&lt;/li&gt;
   &lt;li&gt;파일 업로드 지원&lt;/li&gt;
@@ -138,7 +401,9 @@
   &lt;li&gt;쿼리 성능 추적&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;&lt;a href=&quot;#References&quot;&gt;References&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.graphql.com/guides/&quot;&gt;GraphQL: Guides and Best Practices&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://darrengwon.tistory.com/289&quot;&gt;GraphQL-yoga 소개 및 간단한 활용&lt;/a&gt;&lt;/li&gt;
@@ -165,7 +430,7 @@ Jekyll also offers powerful support for code snippets:
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. --&gt;</content><author><name></name></author><category term="GraphQL" /><category term="tutorial" /><summary type="html">Contents GraphQL 이란? 왜 GraphQL 인가? GraphQL 준비 GraphQL의 장점과 단점 GraphQL과 오픈소스: Open API 및 Swagger GraphQL 시작 GraphQL 중간 GraphQL 끝 Further Study References</summary></entry><entry><title type="html">Welcome to a New romantic world!</title><link href="https://neoroman.github.io/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to a New romantic world!" /><published>2021-06-12T11:25:49+09:00</published><updated>2021-06-12T11:25:49+09:00</updated><id>https://neoroman.github.io/welcome-to-jekyll</id><content type="html" xml:base="https://neoroman.github.io/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. --&gt;</content><author><name></name></author><category term="GraphQL" /><category term="tutorial" /><summary type="html">Contents GraphQL 이란? 왜 GraphQL 인가? GraphQL의 장점과 단점 GraphQL과 오픈소스: Open API 및 Swagger GraphQL 준비 GraphQL 문법 GraphQL 시작(start) GraphQL 끝(final) Further Study References</summary></entry><entry><title type="html">Welcome to a New romantic world!</title><link href="http://localhost:3000/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to a New romantic world!" /><published>2021-06-12T11:25:49+09:00</published><updated>2021-06-12T11:25:49+09:00</updated><id>http://localhost:3000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:3000/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
