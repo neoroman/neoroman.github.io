@@ -5,16 +5,16 @@ date:   2023-07-31 23:58:00 +0900
 categories: Lifeguard
 ---
 
-![1일차 지급받은 수모와 교재](https://github.com/neoroman/neoroman.github.io/raw/_site/assets/images/lifeguard/Lifeguard-day1.jpg)
-
-
-<BR />
-
-# 장소: 올림픽수영장 다이빙풀(수심 5m)
+![1일차 지급받은 수모와 교재](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day1.jpg)
+<center>1일차 지급받은 수모와 교재</center>
 
 <BR />
 
-# 1일차 후기
+## 장소: 올림픽수영장 다이빙풀(수심 5m)
+
+<BR />
+
+## 1일차 후기
 
 37명 지원해서 시험 후 32명이 1일차 교육 잘 마쳤습니다. 
 
@@ -30,3 +30,32 @@ categories: Lifeguard
 
 첫날 두려움은 좀 극복되었는데 내일은 또 내일의 지옥 훈련이 기다리고 있겠죠. ㅎㅎ
 
+# 인원
+ - 총원 32명
+ - 1일차: 4명 테스트 탈락, 1명 그만둠
+
+
+---
+# 목차
+- 1일차 교육 후기 (현재글)
+- [2일차 교육 후기][day-2]
+- [3일차 교육 후기][day-3]
+- [4일차 교육 후기][day-4]
+- [5일차 교육 후기][day-5]
+- [6일차 교육 후기][day-6]
+- [7일차 교육 후기][day-7]
+- [8일차 교육 후기][day-8]
+- [9일차 필기/실기 검정 후기][day-9]
+
+
+---
+
+[day-1]: /RedCross-Lifeguard-day1
+[day-2]: /RedCross-Lifeguard-day2
+[day-3]: /RedCross-Lifeguard-day3
+[day-4]: /RedCross-Lifeguard-day4
+[day-5]: /RedCross-Lifeguard-day5
+[day-6]: /RedCross-Lifeguard-day6
+[day-7]: /RedCross-Lifeguard-day7
+[day-8]: /RedCross-Lifeguard-day8
+[day-9]: /RedCross-Lifeguard-day9
