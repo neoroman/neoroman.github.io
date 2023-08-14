@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:3000/welcome-to-jekyll/</loc>
+<loc>https://neoroman.github.io/welcome-to-jekyll/</loc>
 <lastmod>2021-06-12T11:25:49+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:3000/GraphQL-tutorial/</loc>
+<loc>https://neoroman.github.io/GraphQL-tutorial/</loc>
 <lastmod>2021-06-30T14:17:49+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:3000/about/</loc>
+<loc>https://neoroman.github.io/RedCross-Lifeguard-day1/</loc>
+<lastmod>2023-07-31T23:58:00+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:3000/</loc>
+<loc>https://neoroman.github.io/about/</loc>
+</url>
+<url>
+<loc>https://neoroman.github.io/</loc>
 </url>
 </urlset>

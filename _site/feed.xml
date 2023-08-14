@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:3000/" rel="alternate" type="text/html" /><updated>2021-07-05T09:45:45+09:00</updated><id>http://localhost:3000/feed.xml</id><title type="html">NeoRoman</title><subtitle>Experienced iOS Developer adept in bringing forth expertise in design,  installation, testing and maintenance of software systems.   Experienced with the latest cutting edge development tools and procedures.    Able to effectively self-manage during independent projects,  as well as collaborate as part of a productive team.</subtitle><entry><title type="html">GraphQL-tutorial</title><link href="http://localhost:3000/GraphQL-tutorial/" rel="alternate" type="text/html" title="GraphQL-tutorial" /><published>2021-06-30T14:17:49+09:00</published><updated>2021-06-30T14:17:49+09:00</updated><id>http://localhost:3000/GraphQL-tutorial</id><content type="html" xml:base="http://localhost:3000/GraphQL-tutorial/">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://neoroman.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://neoroman.github.io/" rel="alternate" type="text/html" /><updated>2023-08-14T16:29:08+09:00</updated><id>https://neoroman.github.io/feed.xml</id><title type="html">NeoRoman</title><subtitle>Experienced iOS Developer adept in bringing forth expertise in design,  installation, testing and maintenance of software systems.   Experienced with the latest cutting edge development tools and procedures.    Able to effectively self-manage during independent projects,  as well as collaborate as part of a productive team.</subtitle><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 1일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day1/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 1일차 교육 후기" /><published>2023-07-31T23:58:00+09:00</published><updated>2023-07-31T23:58:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day1</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day1/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/_site/assets/images/lifeguard/Lifeguard-day1.jpg&quot; alt=&quot;1일차 지급받은 수모와 교재&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;장소-올림픽수영장-다이빙풀수심-5m&quot;&gt;장소: 올림픽수영장 다이빙풀(수심 5m)&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;1일차-후기&quot;&gt;1일차 후기&lt;/h1&gt;
+
+&lt;p&gt;37명 지원해서 시험 후 32명이 1일차 교육 잘 마쳤습니다.&lt;/p&gt;
+
+&lt;p&gt;자유형 뺑뺑이, 평영 뺑뺑이, 기본 배영, 트러젠 등 훈련하고 마지막에는 잠영만 계속 시키시네요.&lt;/p&gt;
+
+&lt;p&gt;처음에 몇몇 분은 25m 를 한 번에 못 와서 계속 반복하길 거듭하다 전원이 25m 잠영을 마쳤네요.  강사님왈 잠영은 계속하면 는다. ^.^&lt;/p&gt;
+
+&lt;p&gt;5m 다이빙풀에 처음 들어가니 심리적으로 위축되는데 뺑뺑이 돌고 잠영하다보니 많이 친숙해졌네요.&lt;/p&gt;
+
+&lt;p&gt;그간 꽤 오래 수영하면서 수경 없이 수영을 해본 일이 없었는데 오늘 교육 거의 3분의 2가량은 수경을 벗고 하다보니 또 금방 적응하게 되네요. ㅋㅋ&lt;/p&gt;
+
+&lt;p&gt;이번 기수는 오후 2시에 시작이라 집에 와서 야참 좀 때리고 이론 교육 깜지 숙제하다보니 졸린 눈을 비비며 아직 버티는 중입니다. ㅡ,ㅡ&lt;/p&gt;
+
+&lt;p&gt;첫날 두려움은 좀 극복되었는데 내일은 또 내일의 지옥 훈련이 기다리고 있겠죠. ㅎㅎ&lt;/p&gt;</content><author><name></name></author><category term="Lifeguard" /><summary type="html"></summary></entry><entry><title type="html">GraphQL-tutorial</title><link href="https://neoroman.github.io/GraphQL-tutorial/" rel="alternate" type="text/html" title="GraphQL-tutorial" /><published>2021-06-30T14:17:49+09:00</published><updated>2021-06-30T14:17:49+09:00</updated><id>https://neoroman.github.io/GraphQL-tutorial</id><content type="html" xml:base="https://neoroman.github.io/GraphQL-tutorial/">&lt;hr /&gt;
 &lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial/#GraphQL%20이란?&quot;&gt;GraphQL 이란?&lt;/a&gt;&lt;/li&gt;
@@ -430,7 +452,7 @@ Jekyll also offers powerful support for code snippets:
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. --&gt;</content><author><name></name></author><category term="GraphQL" /><category term="tutorial" /><summary type="html">Contents GraphQL 이란? 왜 GraphQL 인가? GraphQL의 장점과 단점 GraphQL과 오픈소스: Open API 및 Swagger GraphQL 준비 GraphQL 문법 GraphQL 시작(start) GraphQL 끝(final) Further Study References</summary></entry><entry><title type="html">Welcome to a New romantic world!</title><link href="http://localhost:3000/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to a New romantic world!" /><published>2021-06-12T11:25:49+09:00</published><updated>2021-06-12T11:25:49+09:00</updated><id>http://localhost:3000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:3000/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. --&gt;</content><author><name></name></author><category term="GraphQL" /><category term="tutorial" /><summary type="html">Contents GraphQL 이란? 왜 GraphQL 인가? GraphQL의 장점과 단점 GraphQL과 오픈소스: Open API 및 Swagger GraphQL 준비 GraphQL 문법 GraphQL 시작(start) GraphQL 끝(final) Further Study References</summary></entry><entry><title type="html">Welcome to a New romantic world!</title><link href="https://neoroman.github.io/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to a New romantic world!" /><published>2021-06-12T11:25:49+09:00</published><updated>2021-06-12T11:25:49+09:00</updated><id>https://neoroman.github.io/welcome-to-jekyll</id><content type="html" xml:base="https://neoroman.github.io/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
