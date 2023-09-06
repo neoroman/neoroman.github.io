@@ -81,6 +81,19 @@ categories: Lifeguard
 - [8일차 교육 후기][day-8]
 - [9일차 필기/실기 검정 후기][day-9]
 
+<BR />
+
+---
+
+# 댓글
+<script src="https://utteranc.es/client.js"
+        repo="neoroman/neoroman.github.io"
+        issue-term="pathname"
+        label="utterances"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 ---
 

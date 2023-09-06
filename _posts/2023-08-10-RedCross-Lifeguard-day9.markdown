@@ -89,6 +89,21 @@ p.s. 지인들에게 자격증 사진 보내줬더니 뽀샵으로 만든거 아
 - [8일차 교육 후기][day-8]
 - 9일차 필기/실기 검정 후기 (현재글)
 
+
+<BR />
+
+---
+
+# 댓글
+<script src="https://utteranc.es/client.js"
+        repo="neoroman/neoroman.github.io"
+        issue-term="pathname"
+        label="utterances"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---
 
 [day-1]: /RedCross-Lifeguard-day1
