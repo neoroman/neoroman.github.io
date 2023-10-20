@@ -67,6 +67,9 @@ categories: Lifeguard
 
 <BR />
 
+>>> [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+<BR />
+
 ---
 
 # 댓글
@@ -90,3 +93,4 @@ categories: Lifeguard
 [day-7]: /RedCross-Lifeguard-day7
 [day-8]: /RedCross-Lifeguard-day8
 [day-9]: /RedCross-Lifeguard-day9
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&educode2=02&edutypecode=01

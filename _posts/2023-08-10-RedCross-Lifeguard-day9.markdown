@@ -92,6 +92,9 @@ p.s. 지인들에게 자격증 사진 보내줬더니 뽀샵으로 만든거 아
 
 <BR />
 
+>>> [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+<BR />
+
 ---
 
 # 댓글
@@ -115,3 +118,4 @@ p.s. 지인들에게 자격증 사진 보내줬더니 뽀샵으로 만든거 아
 [day-7]: /RedCross-Lifeguard-day7
 [day-8]: /RedCross-Lifeguard-day8
 [day-9]: /RedCross-Lifeguard-day9
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&educode2=02&edutypecode=01
