@@ -92,7 +92,7 @@ categories: Lifeguard
 
 <BR />
 
->>> [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+> [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
 <BR />
 
 ---
