@@ -1,179 +1,171 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://neoroman.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://neoroman.github.io/" rel="alternate" type="text/html" /><updated>2023-12-05T22:34:40+09:00</updated><id>https://neoroman.github.io/feed.xml</id><title type="html">NeoRoman</title><subtitle>Experienced iOS Developer adept in bringing forth expertise in design,  installation, testing and maintenance of software systems.   Experienced with the latest cutting edge development tools and procedures.    Able to effectively self-manage during independent projects,  as well as collaborate as part of a productive team.</subtitle><entry><title type="html">[Jenkins] How to make build on Jenkins</title><link href="https://neoroman.github.io/HowToMakeBuildOnJenkins/" rel="alternate" type="text/html" title="[Jenkins] How to make build on Jenkins" /><published>2023-12-05T14:00:00+09:00</published><updated>2023-12-05T14:00:00+09:00</updated><id>https://neoroman.github.io/HowToMakeBuildOnJenkins</id><content type="html" xml:base="https://neoroman.github.io/HowToMakeBuildOnJenkins/">&lt;hr /&gt;
-&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#Jenkins%20란?&quot;&gt;Jenkins 란?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#왜%Jenkins%20인가?&quot;&gt;왜 Jenkins 인가?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#Jenkins의의%20장점과%20단점&quot;&gt;Jenkins의 장점과 단점&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#Jenkins%20대안?&quot;&gt;Jenkins 대안?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#Jenkins%20준비&quot;&gt;Jenkins 준비&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#Jenkins%20구성&quot;&gt;Jenkins 구성&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#Jenkins%20구성%20&amp;gt;%20소스&quot;&gt;Jenkins 구성 &amp;gt; 소스&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#Jenkins%20구성%20&amp;gt;%20빌드%20유발&quot;&gt;Jenkins 구성 &amp;gt; 빌드 유발&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#Jenkins%20구성%20&amp;gt;%20빌드%20스텝&quot;&gt;Jenkins 구성 &amp;gt; 빌드 스텝&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HowToMakeBuildOnJenkins/#References&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;시작하기-준비하기&quot;&gt;시작하기, 준비하기&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;brew?!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/jenkins/jenkins-logo.svg&quot; alt=&quot;젠킨스 로고&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;젠킨스(Jenkins)&lt;/center&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/neoroman/JenkinsBuild.git&quot;&gt;neoroman’s JenkinsBuild&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://neoroman.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://neoroman.github.io/" rel="alternate" type="text/html" /><updated>2023-12-15T15:44:23+09:00</updated><id>https://neoroman.github.io/feed.xml</id><title type="html">NeoRoman</title><subtitle>Experienced iOS Developer adept in bringing forth expertise in design,  installation, testing and maintenance of software systems.   Experienced with the latest cutting edge development tools and procedures.    Able to effectively self-manage during independent projects,  as well as collaborate as part of a productive team.</subtitle><entry><title type="html">[수영대회] 2023 제28회 대전 전국 마스터즈 수영대회 참가 후기 (생애 두번째 대회)</title><link href="https://neoroman.github.io/DaejeonMastersSwimRace/" rel="alternate" type="text/html" title="[수영대회] 2023 제28회 대전 전국 마스터즈 수영대회 참가 후기 (생애 두번째 대회)" /><published>2023-12-10T12:00:00+09:00</published><updated>2023-12-10T12:00:00+09:00</updated><id>https://neoroman.github.io/DaejeonMastersSwimRace</id><content type="html" xml:base="https://neoroman.github.io/DaejeonMastersSwimRace/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/20231210-SwimComp-00.jpg&quot; alt=&quot;대전 용운국제수영장 건물외관&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;대전 용운국제수영장 건물외관&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;집..&lt;/li&gt;
-  &lt;li&gt;대..&lt;/li&gt;
+  &lt;li&gt;모친 봉양차 대전에 2주에 한번꼴로 내려가는 길에 마침 대회(구. 충무기)공지를 보고 신청했습니다.&lt;/li&gt;
+  &lt;li&gt;사진은 10월 1일에 자수 갔을 때 찍은 사진, 경기 당일엔 사진 찍을 여유가 없었네요.^^.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;build&quot;&gt;Build&lt;/h2&gt;
+&lt;h2 id=&quot;장소-대전-용운국제수영장-정규코스50m-수심-18m&quot;&gt;장소: 대전 용운국제수영장 정규코스(50m, 수심 1.8m)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/20231210-SwimComp-01.jpg&quot; alt=&quot;용운국제수영장 실내전경&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;용운국제수영장 실내전경&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;성인부 오후 경기 웜업 시간 때문에 11시 30분에 도착했으나 오전 경기가 지연되어 13시 20분에서야 웜업 시작, 14시 5분에 끝&lt;/li&gt;
+  &lt;li&gt;관중석은 3층~4층, 경기 진행은 2층인데 선수 대기실은 의자가 턱없이 부족해서 다들 서서 웅성웅성, 진행하는 심판관은 목소리 터져라 이름 호명하는데 다들 꿀먹은 벙어리…ㅡ.ㅡ;&lt;/li&gt;
+  &lt;li&gt;진행실에 들어가서 선수 등록 문의하니 성명 확인 후 참가 선물(목베개)와 신분증 넣을 목줄을 지급함&lt;/li&gt;
+  &lt;li&gt;신분증을 안가져와서 물어보니 다행히 휴대폰에 저장된 얼굴 확인 가능한 신분증 사진이면 출전가능하다함, 휴~~~&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/20231210-SwimComp-02.jpg&quot; alt=&quot;대회 참가 선물&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;대회 참가 선물, 목베개&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;워밍업-13201405&quot;&gt;워밍업 (13:20~14:05)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;통상 점심시간을 훨~씬 넘긴 오후 1시 20분에 워밍업이 시작되었음, 이야기를 들어보니 오전 경기가 지연되서 그렇다함 (진행요원 왈 어제도 그랬다함 ㅡ.ㅡ;)&lt;/li&gt;
+  &lt;li&gt;터치패드 설치된 곳에서 처음 스타트, 슬슬 눈치보다가 아무래도 내가 뛸 레인에서 뛰는 게 좋을 듯 하여 5번 레인에서 스타트&lt;/li&gt;
+  &lt;li&gt;그리고 팔펴고 자유형으로 끝까지 감, 헉~! 레인 데크 쪽으로는 올라갈 수가 없다는 것을 인식,&lt;/li&gt;
+  &lt;li&gt;터치패드가 데크에 살짝 걸려있는 구조라 터치패트를 잡고 올라가면 무너져 내릴 것 같았음&lt;/li&gt;
+  &lt;li&gt;레인을 가로질러 옆으로 이동하여 퇴수, 다시보니 1, 8레인에만 사람들이 바글바글한 이유가 중간에서 뛰면 퇴수하기가 어려워서 이었음&lt;/li&gt;
+  &lt;li&gt;다행(?)이 25m 이후에는 수위조절판이 설치되있어서 대부분 스타트 후 25m까지 대쉬 후 옆으로 퇴수함&lt;/li&gt;
+  &lt;li&gt;BUMWOO 스타트대는 3번에 발판을 꽂고 뛰어보니 잘 맞는 것 같음 (Myrtha는 4번)&lt;/li&gt;
+  &lt;li&gt;배치기를 계속하다가 욕심을 버리고 최대한 깊이 들어가려고 노력하니 조금 나아짐&lt;/li&gt;
+  &lt;li&gt;대략 11번 넘게 뛰고 마지막 평영 스타트를 하고 나오자 워밍업 시간 끝남&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;대기-14051600&quot;&gt;대기 (14:05~16:00)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;워밍업 직후 준비해온 바나나 2개와 단백질바를 순삭하고 탈의를 할까말까 고민했으나 준비해간 웃옷만 입고 버팀&lt;/li&gt;
+  &lt;li&gt;문제는 슬리퍼를 준비해 가지 않아서 운동화를 씻고 나와서 대충 말린 상태에서 신기에는 상당히 곤혹스러움&lt;/li&gt;
+  &lt;li&gt;오후 순서는 개인혼영 200m, 평영 100m, 배영 100m, 그리고 혼성계영 200m&lt;/li&gt;
+  &lt;li&gt;그 이후에 평영 50m 경기라 대략 1시간, 길어도 1시간 반이면 경기가 시작할 줄 알았음&lt;/li&gt;
+  &lt;li&gt;하지만 평균 3분 정도의 조별 경기가 거의 2시간 넘게 진행됨&lt;/li&gt;
+  &lt;li&gt;대기실에 잠깐 있다가 웅성거리는 소리가 시끄럽기도 하고 살짝 한기를 느낌&lt;/li&gt;
+  &lt;li&gt;비교적 따뜻한 관람석(3~4층)으로 이동해서 경기를 보고 있으니 수영복이 바짝 마름 ㅋ&lt;/li&gt;
+  &lt;li&gt;기다리는 시간이 길어지니 긴장감도 더 높아지고 앉아있기가 애매해 서있으니 허리도 좀 아프고 힘들었음&lt;/li&gt;
+  &lt;li&gt;피할 수 없으면 즐기라했나? 경기를 진지하게 구경하니 나름 시간이 금방 가긴함&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;평영-50m-성인부-남자-6그룹-경기-16001615&quot;&gt;평영 50m 성인부 남자 6그룹 경기 (16:00~16:15)&lt;/h2&gt;
 &lt;ol&gt;
-  &lt;li&gt;마..&lt;/li&gt;
-  &lt;li&gt;줄..&lt;/li&gt;
-  &lt;li&gt;의..&lt;/li&gt;
-  &lt;li&gt;수..&lt;/li&gt;
-  &lt;li&gt;심..&lt;/li&gt;
-  &lt;li&gt;상..&lt;/li&gt;
-  &lt;li&gt;심..&lt;/li&gt;
-  &lt;li&gt;녹..&lt;/li&gt;
-  &lt;li&gt;스..&lt;/li&gt;
-  &lt;li&gt;그..&lt;/li&gt;
-  &lt;li&gt;죽..&lt;/li&gt;
-  &lt;li&gt;턴..&lt;/li&gt;
-  &lt;li&gt;돌..&lt;/li&gt;
-  &lt;li&gt;결..&lt;/li&gt;
+  &lt;li&gt;너무 일찍 수모를 쓰고, 게다가 실리콘 수모를 두 개나 쓰고 거의 30분을 대기실에서 기다림&lt;/li&gt;
+  &lt;li&gt;머리 압박이 너무 심해 하나를 벗을까? 고민하던 중 호명이 시작되었음&lt;/li&gt;
+  &lt;li&gt;풀 사이드로 들어서기전 휴대폰 신분증 확인하고 진입&lt;/li&gt;
+  &lt;li&gt;풀 사이드에 3개조 정도 줄을 서서 대기하고 있음&lt;/li&gt;
+  &lt;li&gt;풀 사이드로 들어가니 생각보다는 빨리 진행되는 느낌이었음&lt;/li&gt;
+  &lt;li&gt;드디어 내 차례, 레인 심판관의 성명 질문에 대답하고 탈의&lt;/li&gt;
+  &lt;li&gt;심판관 호각 4회(녹음된 음향), 호각 1회(녹음된 음향)&lt;/li&gt;
+  &lt;li&gt;스타트대에 올라서 자세 잡음&lt;/li&gt;
+  &lt;li&gt;심판관 발성 “Take your mark”&lt;/li&gt;
+  &lt;li&gt;“뿡” (녹음된 음향)&lt;/li&gt;
+  &lt;li&gt;스타트하고 나서 돌핀킥 1회 + 암풀 1회 + 평영킥 1회&lt;/li&gt;
+  &lt;li&gt;생각보다 깊이 들어갔으나 돌핀킥 1회가 너무 빨랐음&lt;/li&gt;
+  &lt;li&gt;첫 스트로크하는데 15m가 한참 남음&lt;/li&gt;
+  &lt;li&gt;레이스 패이스로 스트로크하되 최대한 유선형 유지를 위해서 노력함&lt;/li&gt;
+  &lt;li&gt;마지막 터치패드를 짝손 주의하며 강하게 터치&lt;/li&gt;
+  &lt;li&gt;레인 옆으로 심판관 안내에 따라 이동하여 퇴수&lt;/li&gt;
+  &lt;li&gt;퇴수 후 스타트 한 지점으로 돌아가서 옷과 신발 챙기고 샤워장으로 이동&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;터치패드 첫 경험이라 강사님에게 문의도 했었는데, 직접해보니 신기하기도 하고 뭔가 딱 막힌 답답한 느낌이랄까…&lt;/p&gt;
+
+&lt;h1 id=&quot;평영-50m-성인부-남자-6그룹-결과-4638초-6위7명&quot;&gt;평영 50m 성인부 남자 6그룹 결과: 46.38초, 6위/7명&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/20231210-SwimComp-03.jpg&quot; alt=&quot;평영 50m 성인부 남자 6그룹 결과&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;평영 50m 성인부 남자 6그룹 결과&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;또-대기-16151715&quot;&gt;또 대기 (16:15~17:15)&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;평영 50m와 자유형 50m 신청자가 많아서 각 그룹별로 3~4조로 경기를 하기에 또 장시간 대기 해야했음&lt;/li&gt;
+  &lt;li&gt;자유형이 시작되고 대기실 분위기 잠깐 보고 다시 관람석으로 이동하여 구경함&lt;/li&gt;
+  &lt;li&gt;자유형 50m 여자 5그룹이 4조까지 있고 이어 진행되는 자유형 50m도 6그룹도 3개조로 편성되있었음&lt;/li&gt;
+  &lt;li&gt;시간이 충분하다고 여기고 여유롭게 여자 5그룹 3조 경기까지 보고, 수경과 수모 착용을 위해 대기실 옆 화장실로 향함&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;자유형-50m-성인부-남자-6그룹3조-경기-17151730&quot;&gt;자유형 50m 성인부 남자 6그룹(3조) 경기 (17:15~17:30)&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;이번엔 수경 부터 쓰고 수모 1개만 착용하고 대기실로 이동함&lt;/li&gt;
+  &lt;li&gt;헐…벌써 남자 50m 7그룹 호명하고 있었음…. 허거걱거걱!!!&lt;/li&gt;
+  &lt;li&gt;헐레벌떡 진행요원에게 6그룹 3조 들어갔냐고 문의하니, 누구냐고 묻더니 “지금 스타트 전이니 달리세요~!”&lt;/li&gt;
+  &lt;li&gt;웃옷을 벗으며 뛰어서 5번 레인까지 후다닥 들어감&lt;/li&gt;
+  &lt;li&gt;레인 심판관에게 성명 말하고 돌아섬&lt;/li&gt;
+  &lt;li&gt;바지끈을 안묵어서 후딱 매고 수경 착용 후 터치패드 넘어 물을 어깨에 축임 (시간 없어도 할껀 다함 ㅋ)&lt;/li&gt;
+  &lt;li&gt;바로 심판관 호각 4회&lt;/li&gt;
+  &lt;li&gt;스타트대 옆 발판에 선수들처럼 발을 올리고 대기&lt;/li&gt;
+  &lt;li&gt;심판관 호각 1회&lt;/li&gt;
+  &lt;li&gt;스타트대에 올라섬 (나중에 경기 끝나고 발판 조절을 까먹은게 생각남 ㅜ.ㅜ)&lt;/li&gt;
+  &lt;li&gt;심판관 발성 “Take your mark”&lt;/li&gt;
+  &lt;li&gt;“뿡” (녹음된 음향)&lt;/li&gt;
+  &lt;li&gt;스타트 후 6회 돌핀킥하니 등쪽에 수면이 느껴져서 죽어라 발차기와 스트로크 시작&lt;/li&gt;
+  &lt;li&gt;바로 옆 4번, 6번 레인 선수는 뒤쳐져서 보이지 않음&lt;/li&gt;
+  &lt;li&gt;근데 저 멀리 희미하게 엄청남 물보라가 보임 (끝나고 보니 어떤 일본인이 26.08초 기록으로 1위를 함)&lt;/li&gt;
+  &lt;li&gt;뭘까 생각하며 마지막까지 폭풍 질주 (일본인의 26.08초 기록은 6그룹 대회신기록 뿐만아니라 남자 2그룹 24초대를 제외하면 최고 기록이었음)&lt;/li&gt;
+  &lt;li&gt;결승점 (강하게) 터치&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;역시 다다다다 …&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;마무리&quot;&gt;마무리&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;우워… 뭔일… ㅋ.ㅋ
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/jenkins/jenkins-logo.svg&quot; alt=&quot;젠킨스&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;Jenkins logo&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
-&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h1 id=&quot;다른-기술-관련글도-읽어보기&quot;&gt;다른 기술 관련글도 읽어보기&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/GraphQL-tutorial&quot;&gt;GraphQL tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;지난 경기([동작구][DongJakGu]) 후 숨이 하나도 안찼던 것에 비하며 나름 숨이 꽤 차오름&lt;/li&gt;
+  &lt;li&gt;레인을 건너며 다리가 뻐근해지는 것을 살짝 느낌&lt;/li&gt;
+  &lt;li&gt;풀 사이드 계단을 오르며 다리 뿐만아니라 허리도 뻐근하다는 것을 느낌&lt;/li&gt;
+  &lt;li&gt;남자 6그룹 3조 경기에서는 3등으로 표시되어 걸으며 전광판을 주시, 최종 결과는 7위…&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="Jenkins," /><category term="Android," /><category term="iOS," /><category term="Build" /><summary type="html">Contents Jenkins 란? 왜 Jenkins 인가? Jenkins의 장점과 단점 Jenkins 대안? Jenkins 준비 Jenkins 구성 Jenkins 구성 &amp;gt; 소스 Jenkins 구성 &amp;gt; 빌드 유발 Jenkins 구성 &amp;gt; 빌드 스텝 References</summary></entry><entry><title type="html">[수영대회] 2023 성남시체육회장배 철인3종 장거리 수영대회</title><link href="https://neoroman.github.io/SeongnamTriathlonSwim/" rel="alternate" type="text/html" title="[수영대회] 2023 성남시체육회장배 철인3종 장거리 수영대회" /><published>2023-11-19T10:00:00+09:00</published><updated>2023-11-19T10:00:00+09:00</updated><id>https://neoroman.github.io/SeongnamTriathlonSwim</id><content type="html" xml:base="https://neoroman.github.io/SeongnamTriathlonSwim/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-01.jpg&quot; alt=&quot;탄천종합운동장 수영장&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;성남시 탄천종합운동장 수영장 2급 정규레인 50m, 수심 2m (출처: SHC클럽 적금언니)&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;장소-성남시-탄천종합운동장-수영장-정규코스50m-수심-2m&quot;&gt;장소: 성남시 탄천종합운동장 수영장 정규코스(50m, 수심 2m)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;라커룸 개방을 안해서 지급된 비닐 봉지에 옷과 신발을 벗어놓고 사워 후 준비&lt;/li&gt;
-  &lt;li&gt;지급된 11번 금빛 수모와 워머를 입고 수영장 입구에 가니 오른쪽 팔에 매직으로 ‘11’번을 써줌&lt;/li&gt;
-  &lt;li&gt;경기 시작 20분 전에 다시 수영장으로 올라가면서 워머는 가방에 넣고 올라감&lt;/li&gt;
-  &lt;li&gt;살짝 한기를 느껴서 수영장 바로 옆 남자 화장실에서 소변 후 더운 물로 샤워, 그리고 살짝 냉수마찰!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-02.jpg&quot; alt=&quot;지급받은 수모와 워머, 간식, 물 등&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;지급받은 수모와 워머, 간식, 물 등&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;워밍업-10001010&quot;&gt;워밍업 (10:00~10:10)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;100m 딱 한바퀴 웜업, 너무 짧아 웜업 안됨 ㅡ.ㅡ;&lt;/li&gt;
-  &lt;li&gt;다들 모여서 잘 부탁한다 덕담하고 각 레인의 심판관 2명의 설명 청취:
-    &lt;ul&gt;
-      &lt;li&gt;5초 간격으로 번호 대로 출발&lt;/li&gt;
-      &lt;li&gt;마지막 바퀴에 뿅망치로 머리를 때린다능…ㅋ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;단체 사진 두어장 찍고 화이팅 외치기, … 대기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;tr border=&quot;0&quot;&gt;&lt;td&gt;
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-09.jpg&quot; width=&quot;360&quot; /&gt;
-&lt;/td&gt;&lt;td&gt;
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-10.jpg&quot; width=&quot;360&quot; /&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;자유형-1500m-경기비경영-10101040&quot;&gt;자유형 1500m 경기(비경영) (10:10~10:40)&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;출발 신호 이런 것 없고 10시 10분 부터 각 레인 1번 호명과 동시에 물 속 출발&lt;/li&gt;
-  &lt;li&gt;11번 안불러줘 앞 사람과 거리 확보 후 바로 출발, 거리를 너무 확보한 듯 함&lt;/li&gt;
-  &lt;li&gt;스트로크 숫자 세기 300m 까지 40~45 스트로크 나옴… 확실히 웜업 제대로 안된 듯…ㅜ.ㅜ&lt;/li&gt;
-  &lt;li&gt;턴은 수모 숫자와 오른팔의 매직으로 쓴 숫자를 확인해야하기에 무조건 사이드턴&lt;/li&gt;
-  &lt;li&gt;턴을 하면 심판관 1이 심판관 2에게 숫자를 호명하고 시간과 바퀴 수 기록&lt;/li&gt;
-  &lt;li&gt;500m 넘으면서 스트로크 수가 35~38개로 안정되기 시작함&lt;/li&gt;
-  &lt;li&gt;속으로 스트로크 수를 세다가 바뀌수가 혼동되기 시작해서 스트로크 수 세기는 포기&lt;/li&gt;
-  &lt;li&gt;늘 장거리 바퀴수는 5.5, 6.5 이런 식으로 속으로 되뇌임, 그럼 혼동이 덜됨. 즉, 5번째 바퀴 시작될때부터 6번째 바퀴 시작 전까지 계속 5.5로 속으로 되뇌임&lt;/li&gt;
-  &lt;li&gt;12번 아저씨가 갑자기 치고 나와서 발을 터치하기에 레인에 바짝 붙어서 피해주는데 건너편 레인 분과 손등 키스 ㅡ.ㅡ 다행히 아프진 않았음&lt;/li&gt;
-  &lt;li&gt;750m에서 드디어 1~8번 아재들과 만나게 되어 잠깐 수위조절판에 서서 대기, 약 5~7초 정도는 까먹은 듯…ㅡ.ㅡ&lt;/li&gt;
-  &lt;li&gt;8번 아재 뒤를 바짝 붙어서 가니 상당히 편함, 이래서 1번이 제일 힘든 거임&lt;/li&gt;
-  &lt;li&gt;시계를 보고 싶었지만 여유가 없어서 계속 속으로 헤아린 바퀴 수를 믿고 돔&lt;/li&gt;
-  &lt;li&gt;분명 1400m 터치하는데 뿅망치로 머리를 안때려주네… 그래서 계속 심각하게 1바퀴 잘 못 센건가 계산함&lt;/li&gt;
-  &lt;li&gt;일단 마지막 바퀴로 간주하고 12번 아재와 10번 아재 추월함, 추월하면서 1450m를 돈 사람들과 겹쳐서 머리와 등짝 스매싱 당함 ㅋ&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;자유형-1500m-경기비경영-결과&quot;&gt;자유형 1500m 경기(비경영) 결과&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;1500m PB 26m 13s (대략 1분 44초 / 100m 페이스)
-&lt;br /&gt;
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-03.png&quot; alt=&quot;자유형 1500m 경기(비경영) 기록지&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;자유형 1500m 경기(비경영) 기록지&lt;/center&gt;
+&lt;h1 id=&quot;자유형-50m-성인부-남자-6그룹-결과-3192초-7위18명&quot;&gt;자유형 50m 성인부 남자 6그룹 결과: 31.92초, 7위/18명&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/20231210-SwimComp-04.jpg&quot; alt=&quot;자유형 50m 성인부 남자 6그룹 결과&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;자유형 50m 성인부 남자 6그룹 결과&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;마무리&quot;&gt;마무리&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;초반 오버페이스를 조심하다가 페이스가 너무 느렸음&lt;/li&gt;
-  &lt;li&gt;다음 기회가 또 있으면 페이스메이커(&lt;a href=&quot;http://www.finis.co.kr/shop/item.php?it_id=1431492636&quot;&gt;Finis&lt;/a&gt;) 착용하고 시합해보면 좋을 듯 함&lt;/li&gt;
-  &lt;li&gt;다음은 Garmin 시계가 측정한 페이스, 심박수, SWOLF 등
-&lt;br /&gt;
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-04.png&quot; alt=&quot;자유형 1500m Garmin 측정 기록&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;역시 전국 마스터즈 대회의 벽은 높더군요.&lt;/li&gt;
+  &lt;li&gt;자유형은 2번에 한 번 호흡했는데 저항이 심함, 무호흡 훈련, 발차기 훈련 더 많이 해야함&lt;/li&gt;
+  &lt;li&gt;그래도 새로운 느낌 특히 기립근, 둔근, 햄스트링의 기분 좋은 당김을 느낌&lt;/li&gt;
+  &lt;li&gt;하루가 지난 이 글을 쓰는 순간까지 허리 기립근이 매우 뻐근함 ^_^&lt;/li&gt;
+  &lt;li&gt;그래도 나름 1.7초나 단축하여 자유형 50m PB를 기록할 수 있어서 좋았음, 평영은 3.41초 단축!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;center&gt;자유형 1500m Garmin 측정 기록&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.swimrecords.info/races/sungnam2023/history.php&quot;&gt;자유형 1500m 주최측 측정 LAP 기록&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;주최측에서 기록해준 LAP 기록 꽤 정확하네요.&lt;/li&gt;
-  &lt;li&gt;역시 750m에서 1~8번 피해주느라 시간기록이 엉망이네요. ㅡ.ㅡ;&lt;/li&gt;
-  &lt;li&gt;900m 부터 기록이 좋아진 건 앞 사람 바짝 쫓아가서 저항이 거의 없어서 그런 듯 하네요. ㅋ.ㅋ
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-05.png&quot; alt=&quot;자유형 1500m 주최측 측정 LAP 기록&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;자유형 1500m 주최측 측정 LAP 기록&lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/20231210-SwimComp-05.jpg&quot; alt=&quot;자유형 마치고 셀카 한 장&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;자유형 마치고 셀카 한 장&lt;/center&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-06.png?v2&quot; alt=&quot;자유형 1500m 주최측 순위표 1~10위&quot; /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-07.png?v2&quot; alt=&quot;자유형 1500m 주최측 순위표 11~20위&quot; /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-08.png?v2&quot; alt=&quot;자유형 1500m 주최측 순위표 20~30위&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;자유형 1500m 주최측 기록 순위표 (1~30위)&lt;/center&gt;
+&lt;h2 id=&quot;공식-기록-저장소-myrankingcokr&quot;&gt;공식 기록 저장소: &lt;a href=&quot;http://myranking.co.kr&quot;&gt;MyRanking.co.kr&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://myranking.co.kr&quot;&gt;MyRanking.co.kr&lt;/a&gt; 에서 성명을 입력하면 다음과 같이 본인의 기록을 확인할 수 있음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/20231210-SwimComp-07.jpg&quot; alt=&quot;MyRanking 공식 기록&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;MyRanking 공식 기록&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;참고-자유형-50m-전체-기록&quot;&gt;(참고) 자유형 50m 전체 기록&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;그룹 구분: 1그룹 20~24세, 2그룹 25~30세, 3그룹 31~36세, 4그룹 37~42세, 5그룹 43~48세, 6그룹 49~54세, 7그룹 55~60세, 8그룹 61~65세&lt;/li&gt;
+  &lt;li&gt;실제 경기 진행시에 그룹별 신청자가 적은 경우 남/여를 하나의 레인을 띄우고 함께 경기하기도 하네요.&lt;/li&gt;
+  &lt;li&gt;오전 경기에는 9그룹도 있었는데 65세 이상이라는 이야기네요. 이제 15년 정도 남은 건가요…ㅋ&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/20231210-SwimComp-06.jpg&quot; alt=&quot;자유형 50m 전체 기록&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;자유형 50m 전체 기록&lt;/center&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -188,132 +180,7 @@
 &lt;h1 id=&quot;수영관련-다른글도-읽어보기&quot;&gt;수영관련 다른글도 읽어보기&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/DongJakGuSwimRace&quot;&gt;2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;2023 대한적십사자 서울지부 인명구조요원 1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;amp;educode2=02&amp;amp;edutypecode=01&quot;&gt;대한적십자사 인명구조요원 수강신청 바로가기&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;</content><author><name></name></author><category term="Swimming," /><category term="Triathlon" /><summary type="html">성남시 탄천종합운동장 수영장 2급 정규레인 50m, 수심 2m (출처: SHC클럽 적금언니)</summary></entry><entry><title type="html">[수영대회] 2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)</title><link href="https://neoroman.github.io/DongJakGuSwimRace/" rel="alternate" type="text/html" title="[수영대회] 2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)" /><published>2023-10-29T12:00:00+09:00</published><updated>2023-10-29T12:00:00+09:00</updated><id>https://neoroman.github.io/DongJakGuSwimRace</id><content type="html" xml:base="https://neoroman.github.io/DongJakGuSwimRace/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-01.jpg&quot; alt=&quot;서울여성플라자 건물외관&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;동작구(대방역) 서울여성플라자 건물 외관&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;집에서 대략 지하철로 2번 갈아타고 1시간 정도 거리였음&lt;/li&gt;
-  &lt;li&gt;대방역에서는 정말 가깝더군요. 걸어서 2분 거리…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;장소-동작구-서울여성플라자-수영장-숏코스25m-수심-14m&quot;&gt;장소: 동작구 서울여성플라자 수영장 숏코스(25m, 수심 1.4m)&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-02.jpg&quot; alt=&quot;서울여성플라자 수영장&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;서울여성플라자 수영장 성인부 경기전 모습&lt;/center&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;오전에 학생부 경기를 해서 그런지 바닥이 좀 지져분 하더군요.&lt;/li&gt;
-  &lt;li&gt;아무래도 가족들이 경기 구경하면서 신발을 그대로 신고 들어와서 왔다갔다하니 어쩔 수 없었을 듯 합니다. (다음에는 관중석있는 경기장을 기약하며…)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;워밍업-13101350&quot;&gt;워밍업 (13:10~13:50)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;개인으로 출전하니 여기저기 동호회 삼삼오오 모여서 이야기하는 소리에 우왕좌왕하며&lt;/li&gt;
-  &lt;li&gt;어찌어찌 대충 눈치로 스타트, 턴, 그리고 스타트 후 대쉬(15m) 위주로 연습함&lt;/li&gt;
-  &lt;li&gt;아침을 거하게 먹고 왔는데도 워밍업하고 나니 너무 너무 너무 배가 고파서&lt;/li&gt;
-  &lt;li&gt;집에서 싸온 단백질바와 바나나를 순삭하고 나서 슬슬 산책을 하는데 분위기가 심상치 않아서&lt;/li&gt;
-  &lt;li&gt;수영장으로 내려가보니 20여분만에 IM 경기가 거의 끝나가고 있어서 헐래벌떡 옷벗고 준비함&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;자유형-50m-성인부-남자-경기-14301445&quot;&gt;자유형 50m 성인부 남자 경기 (14:30~14:45)&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;마이크를 든 경기 심판관이 종목과 이름을 레인 순으로 호명 (수영장이 작아서 마아크가 울려서 거의 안들림)&lt;/li&gt;
-  &lt;li&gt;줄서서 플라스틱 의자 옆쪽에 도열&lt;/li&gt;
-  &lt;li&gt;의자에 앉아서 순서 기다리기&lt;/li&gt;
-  &lt;li&gt;수경과 수모 정리해서 착용 (수경에 김이 서렸는데 입김을 살짝 불어 털어주니 깨끗해짐… 휴~)&lt;/li&gt;
-  &lt;li&gt;심판관 최종 호명으로 레인 뒤에 입장&lt;/li&gt;
-  &lt;li&gt;(보온용) 상의 탈의&lt;/li&gt;
-  &lt;li&gt;심판관의 호각 4회&lt;/li&gt;
-  &lt;li&gt;“Take your mark”  (녹음된 음성 신호)&lt;/li&gt;
-  &lt;li&gt;“뿌~웅” (녹음된 스타트음)&lt;/li&gt;
-  &lt;li&gt;그렙 스타트&lt;/li&gt;
-  &lt;li&gt;죽어라 발차기&lt;/li&gt;
-  &lt;li&gt;25m 턴하는데 평소보다 너무 빨리 턴해서 거리가 남음 ㅜ.ㅜ 발끝 펴서 최대한 밀고 돌핀킥&lt;/li&gt;
-  &lt;li&gt;1레인 돌아오는데 옆에 사람들이 보임, 템포를 더 올리려는데 힘이 안들어감 ㅜ.ㅜ&lt;/li&gt;
-  &lt;li&gt;결승점 터치&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;턴 못한 것을 자책하기 전에 의아한 건 숨이 하나도 안찼다는 것…은 최대 기량을 발휘 못했다는 뜻…ㅡ.ㅡ;&lt;/li&gt;
-  &lt;li&gt;이래서 대쉬 연습을 많이 해야한다는 것인가 봅니다!&lt;/li&gt;
-  &lt;li&gt;평상복의 선수 가족, 클럽 친우들 뒤에 까치발 들고 다음 여성부 경기 관람함&lt;/li&gt;
-  &lt;li&gt;역시 다다다다 발차기가 되는 사람, 발찬 물이 천정을 적시는 사람(^^)이 거의 1등하는 건 진리인가 봅니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;자유형-50m-성인부-남자-7그룹-결과&quot;&gt;자유형 50m 성인부 남자 7그룹 결과&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-03.jpg&quot; alt=&quot;자유형 50m 성인부 남자 7그룹 결과&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;자유형 50m 성인부 남자 7그룹 결과&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;평영-50m-성인부-남자-7그룹-경기-15001515&quot;&gt;평영 50m 성인부 남자 7그룹 경기 (15:00~15:15)&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;자유형할때와 같이 도열 후 준비 및 입장&lt;/li&gt;
-  &lt;li&gt;스타트하고 나서 돌핀킥 1회 + 암풀 1회 + 평영킥 1회&lt;/li&gt;
-  &lt;li&gt;첫 호흡하는데 12.5~13m를 넘었고 옆에 사람이 안보임 (앗싸…!)&lt;/li&gt;
-  &lt;li&gt;양손 터치 후 재빠르게 오픈턴&lt;/li&gt;
-  &lt;li&gt;살짝 지친다는 느낌이 왔으나 더 템포를 올림&lt;/li&gt;
-  &lt;li&gt;결승점 터치하는데 옆 레인에서 갑툭튀…망 ㅋ&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;그래도 그렙스타트 후 평영 스타트는 역대급이었음, 이 느낌을 잘 기억해야할 것 같네요.&lt;/p&gt;
-
-&lt;h1 id=&quot;평영-50m-성인부-남자-7그룹-결과&quot;&gt;평영 50m 성인부 남자 7그룹 결과&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-04.jpg&quot; alt=&quot;평영 50m 성인부 남자 7그룹 결과&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;평영 50m 성인부 남자 7그룹 결과&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;마무리&quot;&gt;마무리&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;개인으로 출전하니 사진 찍어줄 사람도 없고, 쓸쓸히 터벅 터벅 나가는데 벽에 붙은 결과지를 봅니다.&lt;/li&gt;
-  &lt;li&gt;우워… 뭔일… 등수에 들었네요! ㅋ.ㅋ&lt;/li&gt;
-  &lt;li&gt;생애 첫 대회 출전에 입상이라니 가문의 영광입니다. ㅎ.ㅎ
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-05.jpg&quot; alt=&quot;동작구수영연맹배 대회 은메달 2개&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;동작구수영연맹배 대회 은메달 2개&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;참고-자유형-50m-남자-전체-기록-다시보니-2025세-1그룹-기록이-빠짐&quot;&gt;(참고) 자유형 50m 남자 전체 기록 (다시보니 20~25세 1그룹 기록이 빠짐)&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;7그룹이지만 생애 첫 기록으로는 나쁘지 않은 듯 합니다. 그러나 만족할 수는 없는 기록이지요.&lt;/li&gt;
-  &lt;li&gt;이제 시작입니다. 화이팅~~!
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-06.jpg&quot; alt=&quot;자유형 50m 남자 전체 기록&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;자유형 50m 남자 전체 기록&lt;/center&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
-&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h1 id=&quot;수영관련-다른글도-읽어보기&quot;&gt;수영관련 다른글도 읽어보기&lt;/h1&gt;
-&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/SeongnamTriathlonSwim&quot;&gt;2023 성남시체육회장배 철인3종 장거리 수영대회&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;2023 대한적십자사 서울지부 인명구조요원 1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -326,657 +193,973 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="Swimming," /><category term="Competition" /><summary type="html">동작구(대방역) 서울여성플라자 건물 외관</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 9일차 필기/실기 검정 후기 (마지막)</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day9/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 9일차 필기/실기 검정 후기 (마지막)" /><published>2023-08-11T11:53:00+09:00</published><updated>2023-08-11T11:53:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day9</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day9/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day9.jpg&quot; alt=&quot;9일차 검정 완료 후 동기들과 한 컷&quot; /&gt;&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="Swimming," /><category term="Competition" /><summary type="html">대전 용운국제수영장 건물외관</summary></entry><entry><title type="html">[Jenkins] How to make build on Jenkins</title><link href="https://neoroman.github.io/HowToMakeBuildOnJenkins/" rel="alternate" type="text/html" title="[Jenkins] How to make build on Jenkins" /><published>2023-12-05T14:00:00+09:00</published><updated>2023-12-05T14:00:00+09:00</updated><id>https://neoroman.github.io/HowToMakeBuildOnJenkins</id><content type="html" xml:base="https://neoroman.github.io/HowToMakeBuildOnJenkins/">---
+## Contents
+- [Jenkins 란?][section-01]
+- [왜 Jenkins 인가?][section-02]
+- [Jenkins의 장점과 단점][section-03]
+- [Jenkins 대안?][section-04]
+- [Jenkins 준비][section-05]
+- [Jenkins 구성][section-06]
+- [Jenkins 구성 &gt; 소스][section-07]
+- [Jenkins 구성 &gt; 빌드 유발][section-08]
+- [Jenkins 구성 &gt; 빌드 스텝][section-09]
+- [References][section-10]
+
+---
+
+  
+&lt;BR /&gt;
+
+# 시작하기, 준비하기
+- brew?!
+
+
+![젠킨스 로고](https://github.com/neoroman/neoroman.github.io/raw/main/_images/jenkins/jenkins-logo.svg)
+&lt;center&gt;젠킨스(Jenkins)&lt;/center&gt;
+
+[neoroman's JenkinsBuild][JenkinsBuild]
+
+&lt;br /&gt;
+
+* 집..
+* 대..
+
+&lt;BR /&gt;
+
+## Build
+1. 마..
+2. 줄..
+3. 의..
+4. 수..
+5. 심..
+6. 상..
+7. 심..
+8. 녹..
+9. 스..
+10. 그..
+11. 죽..
+12. 턴..
+13. 돌..
+14. 결..
+
+* 역시 다다다다 ...
+
+
+
+## 마무리
+* 우워... 뭔일... ㅋ.ㅋ
+![젠킨스](https://github.com/neoroman/neoroman.github.io/raw/main/_images/jenkins/jenkins-logo.svg)
+&lt;center&gt;Jenkins logo&lt;/center&gt;
+
+&lt;br /&gt;
+
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
+&lt;/script&gt;
+
+&lt;BR /&gt;
+
+---
+# 다른 기술 관련글도 읽어보기
+- [GraphQL tutorial][graphql-tutorial]
+
+&lt;BR /&gt;
+
+---
+
+[JenkinsBuild]: https://github.com/neoroman/JenkinsBuild.git
+[graphql-tutorial]: /GraphQL-tutorial
+[section-01]: /HowToMakeBuildOnJenkins/#Jenkins%20란?
+[section-02]: /HowToMakeBuildOnJenkins/#왜%Jenkins%20인가?
+[section-03]: /HowToMakeBuildOnJenkins/#Jenkins의의%20장점과%20단점
+[section-04]: /HowToMakeBuildOnJenkins/#Jenkins%20대안?
+[section-05]: /HowToMakeBuildOnJenkins/#Jenkins%20준비
+[section-06]: /HowToMakeBuildOnJenkins/#Jenkins%20구성
+[section-07]: /HowToMakeBuildOnJenkins/#Jenkins%20구성%20&gt;%20소스
+[section-08]: /HowToMakeBuildOnJenkins/#Jenkins%20구성%20&gt;%20빌드%20유발
+[section-09]: /HowToMakeBuildOnJenkins/#Jenkins%20구성%20&gt;%20빌드%20스텝
+[section-10]: /HowToMakeBuildOnJenkins/#References</content><author><name></name></author><category term="Jenkins," /><category term="Android," /><category term="iOS," /><category term="Build" /><summary type="html">Contents Jenkins 란? 왜 Jenkins 인가? Jenkins의 장점과 단점 Jenkins 대안? Jenkins 준비 Jenkins 구성 Jenkins 구성 &amp;gt; 소스 Jenkins 구성 &amp;gt; 빌드 유발 Jenkins 구성 &amp;gt; 빌드 스텝 References</summary></entry><entry><title type="html">[수영대회] 2023 성남시체육회장배 철인3종 장거리 수영대회</title><link href="https://neoroman.github.io/SeongnamTriathlonSwim/" rel="alternate" type="text/html" title="[수영대회] 2023 성남시체육회장배 철인3종 장거리 수영대회" /><published>2023-11-19T10:00:00+09:00</published><updated>2023-11-19T10:00:00+09:00</updated><id>https://neoroman.github.io/SeongnamTriathlonSwim</id><content type="html" xml:base="https://neoroman.github.io/SeongnamTriathlonSwim/">![탄천종합운동장 수영장](https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-01.jpg)
+&lt;center&gt;성남시 탄천종합운동장 수영장 2급 정규레인 50m, 수심 2m (출처: SHC클럽 적금언니)&lt;/center&gt;
+
+
+&lt;BR /&gt;
+
+## 장소: 성남시 탄천종합운동장 수영장 정규코스(50m, 수심 2m)
+* 라커룸 개방을 안해서 지급된 비닐 봉지에 옷과 신발을 벗어놓고 사워 후 준비
+* 지급된 11번 금빛 수모와 워머를 입고 수영장 입구에 가니 오른쪽 팔에 매직으로 '11'번을 써줌
+* 경기 시작 20분 전에 다시 수영장으로 올라가면서 워머는 가방에 넣고 올라감
+* 살짝 한기를 느껴서 수영장 바로 옆 남자 화장실에서 소변 후 더운 물로 샤워, 그리고 살짝 냉수마찰!
+
+![지급받은 수모와 워머, 간식, 물 등](https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-02.jpg)
+&lt;center&gt;지급받은 수모와 워머, 간식, 물 등&lt;/center&gt;
+
+
+&lt;BR /&gt;
+
+## 워밍업 (10:00~10:10) 
+* 100m 딱 한바퀴 웜업, 너무 짧아 웜업 안됨 ㅡ.ㅡ;
+* 다들 모여서 잘 부탁한다 덕담하고 각 레인의 심판관 2명의 설명 청취: 
+  * 5초 간격으로 번호 대로 출발
+  * 마지막 바퀴에 뿅망치로 머리를 때린다능...ㅋ
+* 단체 사진 두어장 찍고 화이팅 외치기, ... 대기
+&lt;TR border=0&gt;&lt;TD&gt;
+&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-09.jpg&quot; width=360&gt;
+&lt;/TD&gt;&lt;TD&gt;
+&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-10.jpg&quot; width=360&gt;
+&lt;/TD&gt;&lt;/TR&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+## 자유형 1500m 경기(비경영) (10:10~10:40)
+1. 출발 신호 이런 것 없고 10시 10분 부터 각 레인 1번 호명과 동시에 물 속 출발
+2. 11번 안불러줘 앞 사람과 거리 확보 후 바로 출발, 거리를 너무 확보한 듯 함
+3. 스트로크 숫자 세기 300m 까지 40~45 스트로크 나옴... 확실히 웜업 제대로 안된 듯...ㅜ.ㅜ
+4. 턴은 수모 숫자와 오른팔의 매직으로 쓴 숫자를 확인해야하기에 무조건 사이드턴
+5. 턴을 하면 심판관 1이 심판관 2에게 숫자를 호명하고 시간과 바퀴 수 기록
+6. 500m 넘으면서 스트로크 수가 35~38개로 안정되기 시작함
+7. 속으로 스트로크 수를 세다가 바뀌수가 혼동되기 시작해서 스트로크 수 세기는 포기
+8. 늘 장거리 바퀴수는 5.5, 6.5 이런 식으로 속으로 되뇌임, 그럼 혼동이 덜됨. 즉, 5번째 바퀴 시작될때부터 6번째 바퀴 시작 전까지 계속 5.5로 속으로 되뇌임
+9. 12번 아저씨가 갑자기 치고 나와서 발을 터치하기에 레인에 바짝 붙어서 피해주는데 건너편 레인 분과 손등 키스 ㅡ.ㅡ 다행히 아프진 않았음
+10. 750m에서 드디어 1~8번 아재들과 만나게 되어 잠깐 수위조절판에 서서 대기, 약 5~7초 정도는 까먹은 듯...ㅡ.ㅡ
+11. 8번 아재 뒤를 바짝 붙어서 가니 상당히 편함, 이래서 1번이 제일 힘든 거임
+12. 시계를 보고 싶었지만 여유가 없어서 계속 속으로 헤아린 바퀴 수를 믿고 돔
+13. 분명 1400m 터치하는데 뿅망치로 머리를 안때려주네... 그래서 계속 심각하게 1바퀴 잘 못 센건가 계산함
+14. 일단 마지막 바퀴로 간주하고 12번 아재와 10번 아재 추월함, 추월하면서 1450m를 돈 사람들과 겹쳐서 머리와 등짝 스매싱 당함 ㅋ
+
+
+# 자유형 1500m 경기(비경영) 결과
+* 1500m PB 26m 13s (대략 1분 44초 / 100m 페이스)
+&lt;br /&gt;
+![자유형 1500m 경기(비경영) 기록지](https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-03.png)
+&lt;center&gt;자유형 1500m 경기(비경영) 기록지&lt;/center&gt;
+
+&lt;br /&gt;
+
+
+
+## 마무리
+* 초반 오버페이스를 조심하다가 페이스가 너무 느렸음
+* 다음 기회가 또 있으면 페이스메이커([Finis][finis-tempotrainer]) 착용하고 시합해보면 좋을 듯 함
+* 다음은 Garmin 시계가 측정한 페이스, 심박수, SWOLF 등
+&lt;br /&gt;
+![자유형 1500m Garmin 측정 기록](https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-04.png)
+&lt;center&gt;자유형 1500m Garmin 측정 기록&lt;/center&gt;
+&lt;br /&gt;
+* [자유형 1500m 주최측 측정 LAP 기록][lap]
+* 주최측에서 기록해준 LAP 기록 꽤 정확하네요.
+* 역시 750m에서 1~8번 피해주느라 시간기록이 엉망이네요. ㅡ.ㅡ;
+* 900m 부터 기록이 좋아진 건 앞 사람 바짝 쫓아가서 저항이 거의 없어서 그런 듯 하네요. ㅋ.ㅋ
+![자유형 1500m 주최측 측정 LAP 기록](https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-05.png)
+&lt;center&gt;자유형 1500m 주최측 측정 LAP 기록&lt;/center&gt;
+&lt;br /&gt;
+
+![자유형 1500m 주최측 순위표 1~10위](https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-06.png?v2)
+&lt;br /&gt;
+![자유형 1500m 주최측 순위표 11~20위](https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-07.png?v2)
+&lt;br /&gt;
+![자유형 1500m 주최측 순위표 20~30위](https://github.com/neoroman/neoroman.github.io/raw/main/_images/Triathlon/TriathlonSwim-08.png?v2)
+&lt;center&gt;자유형 1500m 주최측 기록 순위표 (1~30위)&lt;/center&gt;
+&lt;br /&gt;
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
+&lt;/script&gt;
+
+&lt;BR /&gt;
+
+---
+# 수영관련 다른글도 읽어보기
+- [2023 제28회 대전 전국 마스터즈 수영대회 참가 후기 (생애 두번째 대회)][daejeon2023]
+- [2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)][dongjak2023]
+- [2023 대한적십사자 서울지부 인명구조요원 1일차 교육 후기][day-1]
+
+&lt;BR /&gt;
+
+---
+
+&gt; [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+&lt;BR /&gt;
+
+---
+
+[finis-tempotrainer]: http://www.finis.co.kr/shop/item.php?it_id=1431492636
+[lap]: http://www.swimrecords.info/races/sungnam2023/history.php
+[dongjak2023]: /DongJakGuSwimRace
+[daejeon2023]: /DaejeonMastersSwimRace
+[day-1]: /RedCross-Lifeguard-day1
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;educode2=02&amp;edutypecode=01</content><author><name></name></author><category term="Swimming," /><category term="Triathlon" /><summary type="html">성남시 탄천종합운동장 수영장 2급 정규레인 50m, 수심 2m (출처: SHC클럽 적금언니)</summary></entry><entry><title type="html">[수영대회] 2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)</title><link href="https://neoroman.github.io/DongJakGuSwimRace/" rel="alternate" type="text/html" title="[수영대회] 2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)" /><published>2023-10-29T12:00:00+09:00</published><updated>2023-10-29T12:00:00+09:00</updated><id>https://neoroman.github.io/DongJakGuSwimRace</id><content type="html" xml:base="https://neoroman.github.io/DongJakGuSwimRace/">![서울여성플라자 건물외관](https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-01.jpg)
+&lt;center&gt;동작구(대방역) 서울여성플라자 건물 외관&lt;/center&gt;
+
+&lt;br /&gt;
+
+* 집에서 대략 지하철로 2번 갈아타고 1시간 정도 거리였음
+* 대방역에서는 정말 가깝더군요. 걸어서 2분 거리...
+
+&lt;BR /&gt;
+
+## 장소: 동작구 서울여성플라자 수영장 숏코스(25m, 수심 1.4m)
+
+![서울여성플라자 수영장](https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-02.jpg)
+&lt;center&gt;서울여성플라자 수영장 성인부 경기전 모습&lt;/center&gt;
+
+* 오전에 학생부 경기를 해서 그런지 바닥이 좀 지져분 하더군요.
+* 아무래도 가족들이 경기 구경하면서 신발을 그대로 신고 들어와서 왔다갔다하니 어쩔 수 없었을 듯 합니다. (다음에는 관중석있는 경기장을 기약하며...)
+
+&lt;BR /&gt;
+
+## 워밍업 (13:10~13:50)
+* 개인으로 출전하니 여기저기 동호회 삼삼오오 모여서 이야기하는 소리에 우왕좌왕하며 
+* 어찌어찌 대충 눈치로 스타트, 턴, 그리고 스타트 후 대쉬(15m) 위주로 연습함
+* 아침을 거하게 먹고 왔는데도 워밍업하고 나니 너무 너무 너무 배가 고파서
+* 집에서 싸온 단백질바와 바나나를 순삭하고 나서 슬슬 산책을 하는데 분위기가 심상치 않아서
+* 수영장으로 내려가보니 20여분만에 IM 경기가 거의 끝나가고 있어서 헐래벌떡 옷벗고 준비함
+
+&lt;br /&gt;
+
+
+## 자유형 50m 성인부 남자 경기 (14:30~14:45)
+1. 마이크를 든 경기 심판관이 종목과 이름을 레인 순으로 호명 (수영장이 작아서 마아크가 울려서 거의 안들림)
+2. 줄서서 플라스틱 의자 옆쪽에 도열
+3. 의자에 앉아서 순서 기다리기
+4. 수경과 수모 정리해서 착용 (수경에 김이 서렸는데 입김을 살짝 불어 털어주니 깨끗해짐... 휴~)
+5. 심판관 최종 호명으로 레인 뒤에 입장
+6. (보온용) 상의 탈의
+7. 심판관의 호각 4회
+8. &quot;Take your mark&quot;  (녹음된 음성 신호)
+9. &quot;뿌~웅&quot; (녹음된 스타트음)
+10. 그렙 스타트
+11. 죽어라 발차기
+12. 25m 턴하는데 평소보다 너무 빨리 턴해서 거리가 남음 ㅜ.ㅜ 발끝 펴서 최대한 밀고 돌핀킥
+13. 1레인 돌아오는데 옆에 사람들이 보임, 템포를 더 올리려는데 힘이 안들어감 ㅜ.ㅜ
+14. 결승점 터치
+
+* 턴 못한 것을 자책하기 전에 의아한 건 숨이 하나도 안찼다는 것...은 최대 기량을 발휘 못했다는 뜻...ㅡ.ㅡ;
+* 이래서 대쉬 연습을 많이 해야한다는 것인가 봅니다!
+* 평상복의 선수 가족, 클럽 친우들 뒤에 까치발 들고 다음 여성부 경기 관람함
+* 역시 다다다다 발차기가 되는 사람, 발찬 물이 천정을 적시는 사람(^^)이 거의 1등하는 건 진리인가 봅니다.
+
+
+# 자유형 50m 성인부 남자 7그룹 결과
+![자유형 50m 성인부 남자 7그룹 결과](https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-03.jpg)
+&lt;center&gt;자유형 50m 성인부 남자 7그룹 결과&lt;/center&gt;
+
+&lt;br /&gt;
+
+
+## 평영 50m 성인부 남자 7그룹 경기 (15:00~15:15)
+1. 자유형할때와 같이 도열 후 준비 및 입장
+2. 스타트하고 나서 돌핀킥 1회 + 암풀 1회 + 평영킥 1회
+3. 첫 호흡하는데 12.5~13m를 넘었고 옆에 사람이 안보임 (앗싸...!)
+4. 양손 터치 후 재빠르게 오픈턴
+5. 살짝 지친다는 느낌이 왔으나 더 템포를 올림
+6. 결승점 터치하는데 옆 레인에서 갑툭튀...망 ㅋ
+
+그래도 그렙스타트 후 평영 스타트는 역대급이었음, 이 느낌을 잘 기억해야할 것 같네요.
+
+
+# 평영 50m 성인부 남자 7그룹 결과
+![평영 50m 성인부 남자 7그룹 결과](https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-04.jpg)
+&lt;center&gt;평영 50m 성인부 남자 7그룹 결과&lt;/center&gt;
+
+&lt;br /&gt;
+
+
+## 마무리
+* 개인으로 출전하니 사진 찍어줄 사람도 없고, 쓸쓸히 터벅 터벅 나가는데 벽에 붙은 결과지를 봅니다.
+* 우워... 뭔일... 등수에 들었네요! ㅋ.ㅋ
+* 생애 첫 대회 출전에 입상이라니 가문의 영광입니다. ㅎ.ㅎ
+![동작구수영연맹배 대회 은메달 2개](https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-05.jpg)
+&lt;center&gt;동작구수영연맹배 대회 은메달 2개&lt;/center&gt;
+
+&lt;br /&gt;
+
+# (참고) 자유형 50m 남자 전체 기록 (다시보니 20~25세 1그룹 기록이 빠짐)
+* 7그룹이지만 생애 첫 기록으로는 나쁘지 않은 듯 합니다. 그러나 만족할 수는 없는 기록이지요.
+* 이제 시작입니다. 화이팅~~!
+![자유형 50m 남자 전체 기록](https://github.com/neoroman/neoroman.github.io/raw/main/_images/SwimCompetition/SwimCompetition-06.jpg)
+&lt;center&gt;자유형 50m 남자 전체 기록&lt;/center&gt;
+
+
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
+&lt;/script&gt;
+
+&lt;BR /&gt;
+
+---
+# 수영관련 다른글도 읽어보기
+- [2023 제28회 대전 전국 마스터즈 수영대회 참가 후기 (생애 두번째 대회)][daejeon2023]
+- [2023 성남시체육회장배 철인3종 장거리 수영대회][triathlon2023]
+- [2023 대한적십자사 서울지부 인명구조요원 1일차 교육 후기][day-1]
+
+&lt;BR /&gt;
+
+---
+
+&gt; [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+&lt;BR /&gt;
+
+---
+[triathlon2023]: /SeongnamTriathlonSwim
+[daejeon2023]: /DaejeonMastersSwimRace
+[day-1]: /RedCross-Lifeguard-day1
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;educode2=02&amp;edutypecode=01</content><author><name></name></author><category term="Swimming," /><category term="Competition" /><summary type="html">동작구(대방역) 서울여성플라자 건물 외관</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 9일차 필기/실기 검정 후기 (마지막)</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day9/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 9일차 필기/실기 검정 후기 (마지막)" /><published>2023-08-11T11:53:00+09:00</published><updated>2023-08-11T11:53:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day9</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day9/">![9일차 검정 완료 후 동기들과 한 컷](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day9.jpg)
 &lt;center&gt;9일차 검정 완료 후 동기들과 한 컷&lt;/center&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;장소-올림픽수영장-다이빙풀수심-5m&quot;&gt;장소: 올림픽수영장 다이빙풀(수심 5m)&lt;/h2&gt;
+## 장소: 올림픽수영장 다이빙풀(수심 5m)
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;9일차-후기&quot;&gt;9일차 후기&lt;/h2&gt;
-&lt;p&gt;9일차는 필기 시험과 실기 시험을 동시에 진행하는 날입니다.&lt;/p&gt;
+## 9일차 후기
+9일차는 필기 시험과 실기 시험을 동시에 진행하는 날입니다.
 
-&lt;p&gt;원래는 대한적십자사 서울특별시지부 강의실에서 필기 시험보고 올림픽수영장으로 넘어오는 일정이었는데,
+원래는 대한적십자사 서울특별시지부 강의실에서 필기 시험보고 올림픽수영장으로 넘어오는 일정이었는데,
 강사님과 대한적십자사 직원분의 배려로 올림픽수영장 2층 휴게실(전망대)서 필기시험 치루고 바로 실기 시험 준비를 해서
-태풍 ‘카눈’으로 비가 많이오는 가운데 시험에 집중할 수 있어서 정말 좋았습니다.&lt;/p&gt;
+태풍 '카눈'으로 비가 많이오는 가운데 시험에 집중할 수 있어서 정말 좋았습니다.
 
-&lt;p&gt;동기들 모두 긴장 상태라 그런지 정말 일사분란하게 움직여서 필기시험도 30분 만에 완료하고,
-실기 시험도 오와 열 잘 맞추고 쾌속으로 진행했습니다.&lt;/p&gt;
+동기들 모두 긴장 상태라 그런지 정말 일사분란하게 움직여서 필기시험도 30분 만에 완료하고,
+실기 시험도 오와 열 잘 맞추고 쾌속으로 진행했습니다.
 
-&lt;h1 id=&quot;실기-검정-시험&quot;&gt;실기 검정 시험&lt;/h1&gt;
-&lt;ol&gt;
-  &lt;li&gt;평영 50m(수경 착용) + 횡영 50m(수경 x) (3분 내)&lt;/li&gt;
-  &lt;li&gt;잠영 25m(수경 착용)&lt;/li&gt;
-  &lt;li&gt;중량물 50(수경 x): 다리벌려 들어가기 + 헤드업 자유형 22m + 잠영 3m + 중량물(5kg) 들고 횡영 또는 구조배영 25m (1분 30초 이내)&lt;/li&gt;
-  &lt;li&gt;맨몸 구조: 다리벌려 들어가기 + 준비서기 + 트러젠 + 손목 끌기 + 구조 횡영&lt;/li&gt;
-  &lt;li&gt;장비 구조: 가슴파지 + 다리 굽혀 들어가기 + 헤드업 평영 + 뻗어돕기 + 구조횡영&lt;/li&gt;
-  &lt;li&gt;풀기: 손목 풀기&lt;/li&gt;
-  &lt;li&gt;경추 부상자 구조: 머리고정법&lt;/li&gt;
-  &lt;li&gt;입영 3분&lt;/li&gt;
-  &lt;li&gt;성인 CPR 실시&lt;/li&gt;
-  &lt;li&gt;성인 AED 실시&lt;/li&gt;
-  &lt;li&gt;소아 CPR 실시 (번호 교번으로 소아 또는 영아 부여 받음, 전 소아)&lt;/li&gt;
-  &lt;li&gt;응급처치 관련 구술시험&lt;/li&gt;
-&lt;/ol&gt;
+# 실기 검정 시험
+1. 평영 50m(수경 착용) + 횡영 50m(수경 x) (3분 내)
+2. 잠영 25m(수경 착용)
+3. 중량물 50(수경 x): 다리벌려 들어가기 + 헤드업 자유형 22m + 잠영 3m + 중량물(5kg) 들고 횡영 또는 구조배영 25m (1분 30초 이내)
+4. 맨몸 구조: 다리벌려 들어가기 + 준비서기 + 트러젠 + 손목 끌기 + 구조 횡영
+5. 장비 구조: 가슴파지 + 다리 굽혀 들어가기 + 헤드업 평영 + 뻗어돕기 + 구조횡영
+6. 풀기: 손목 풀기
+7. 경추 부상자 구조: 머리고정법
+8. 입영 3분
+9. 성인 CPR 실시
+10. 성인 AED 실시
+11. 소아 CPR 실시 (번호 교번으로 소아 또는 영아 부여 받음, 전 소아)
+12. 응급처치 관련 구술시험
 
-&lt;p&gt;약 2시간 반 동안 저 많은 시험을 자원봉사 오신 선배 강사님들이 익수자 역할을 해주셔서
+약 2시간 반 동안 저 많은 시험을 자원봉사 오신 선배 강사님들이 익수자 역할을 해주셔서
 정말 5분간 2번의 화장실 휴식을 제외하고는 일사천리로 실시했습니다.
-훈련의 효과가 빛을 발하는 순간이었습니다.&lt;/p&gt;
+훈련의 효과가 빛을 발하는 순간이었습니다.
 
-&lt;h1 id=&quot;한편의-드라마&quot;&gt;한편의 드라마&lt;/h1&gt;
-&lt;p&gt;한가지 정말 한편의 드라마는 중량물에서 늘 아슬아슬하던 한 동기는 결국 중간 쯤에서 중량물을 떨궜는데,
-동료들의 ‘화이팅’ 응원이 힘이 되었는지 다시 중량물을 잡아서 정말 초인적인 힘을 발휘해서 끝까지 완료했습니다.
+# 한편의 드라마
+한가지 정말 한편의 드라마는 중량물에서 늘 아슬아슬하던 한 동기는 결국 중간 쯤에서 중량물을 떨궜는데,
+동료들의 '화이팅' 응원이 힘이 되었는지 다시 중량물을 잡아서 정말 초인적인 힘을 발휘해서 끝까지 완료했습니다.
 사실 7일간의 훈련을 받아도 5kg의 중량물의 무게를 물 중간에서 끌어올린다는 것은 정말 쉽지 않은 일인데
-우리 동기가 ‘초인’이되어 그 어려운 걸 해냈습니다. 검정날 ‘초인’인 된다는 것은 정설이었습니다. ^_^
+우리 동기가 '초인'이되어 그 어려운 걸 해냈습니다. 검정날 '초인'인 된다는 것은 정설이었습니다. ^_^
 완료와 동시에 동기들 전체가 한마음으로 축하해줬습니다.
-정말 한 편의 드라마였습니다. 여자 동기들은 눈씨울이 붉어지기도 했구요.&lt;/p&gt;
+정말 한 편의 드라마였습니다. 여자 동기들은 눈씨울이 붉어지기도 했구요.
 
-&lt;h1 id=&quot;동기들과의-첫-회식&quot;&gt;동기들과의 첫 회식&lt;/h1&gt;
-&lt;p&gt;모든 일정을 마치고 강사님이 추천해주신 삼겹살 집에서 동기들과 처음으로 회식을 진행했습니다.
+# 동기들과의 첫 회식
+모든 일정을 마치고 강사님이 추천해주신 삼겹살 집에서 동기들과 처음으로 회식을 진행했습니다.
 아직 결과가 나오지 않아서 찜찜한 기분이었지만 그 동안 수영 준비하느라 제대로 먹지를 못해서 였는지 정말
 남녀 구분없이 3인분 이상 순삭했더랍니다. ㅋ.ㅋ
-이 깡마른 사람들이 대체 어디로 그 많은 고기를 넣는지 신기할 따름이었습니다. ^_^&lt;/p&gt;
+이 깡마른 사람들이 대체 어디로 그 많은 고기를 넣는지 신기할 따름이었습니다. ^_^
 
-&lt;p&gt;짧고 굵은 1차를 마치고 간단히 아이스크림 하나 때리고 해산했습니다.&lt;/p&gt;
+짧고 굵은 1차를 마치고 간단히 아이스크림 하나 때리고 해산했습니다.
 
-&lt;p&gt;그리고…&lt;/p&gt;
+그리고...
 
-&lt;p&gt;오늘(8/11, 금) 오전에 결과가 나왔습니다. 
-        합격입니다…!!!
+오늘(8/11, 금) 오전에 결과가 나왔습니다. 
+        합격입니다...!!!
 응원해주신 모든 분들 덕분에 좋은 소식 전해드립니다.
 &lt;br /&gt;
-&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day9-1.png&quot; alt=&quot;라이프가드 자격증&quot; /&gt;
+![라이프가드 자격증](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day9-1.png)
 &lt;br /&gt;
 p.s. 지인들에게 자격증 사진 보내줬더니 뽀샵으로 만든거 아니냐고 그러더라구요. ㅎㅎ
 &lt;br /&gt;
-2018년부터 대한적십자사에서는 라이프카드 플라스틱 자격증 발급을 중단하고 홈페이지를 통해서 이미지와 증명서만 발급한다고 합니다. 뭐 플라스틱 자격증이 필요하면 아직 지원해주는 지사에 문의하면 된다고 하는데 플라스틱 자격증은 큰 의미 없어보여 발급하지 않을 생각입니다.&lt;/p&gt;
+2018년부터 대한적십자사에서는 라이프카드 플라스틱 자격증 발급을 중단하고 홈페이지를 통해서 이미지와 증명서만 발급한다고 합니다. 뭐 플라스틱 자격증이 필요하면 아직 지원해주는 지사에 문의하면 된다고 하는데 플라스틱 자격증은 큰 의미 없어보여 발급하지 않을 생각입니다.
 
-&lt;h1 id=&quot;인원&quot;&gt;인원&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;총원 29명&lt;/li&gt;
-&lt;/ul&gt;
+# 인원
+ - 총원 29명
 
-&lt;h1 id=&quot;실기검정-통과-인원&quot;&gt;실기검정 통과 인원&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;총원 29명 (100%)&lt;/li&gt;
-&lt;/ul&gt;
+# 실기검정 통과 인원
+ - 총원 29명 (100%)
 
-&lt;hr /&gt;
-&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day2&quot;&gt;2일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day3&quot;&gt;3일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day4&quot;&gt;4일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day5&quot;&gt;5일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day6&quot;&gt;6일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day7&quot;&gt;7일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day8&quot;&gt;8일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;9일차 필기/실기 검정 후기 (현재글)&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+---
+# 목차
+- [1일차 교육 후기][day-1]
+- [2일차 교육 후기][day-2]
+- [3일차 교육 후기][day-3]
+- [4일차 교육 후기][day-4]
+- [5일차 교육 후기][day-5]
+- [6일차 교육 후기][day-6]
+- [7일차 교육 후기][day-7]
+- [8일차 교육 후기][day-8]
+- 9일차 필기/실기 검정 후기 (현재글)
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;amp;educode2=02&amp;amp;edutypecode=01&quot;&gt;대한적십자사 인명구조요원 수강신청 바로가기&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;BR /&gt;
 
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
+&gt; [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+&lt;BR /&gt;
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
 &lt;/script&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="Lifeguard" /><summary type="html">9일차 검정 완료 후 동기들과 한 컷</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 8일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day8/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 8일차 교육 후기" /><published>2023-08-09T23:49:00+09:00</published><updated>2023-08-09T23:49:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day8</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day8/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day8.jpg&quot; alt=&quot;8일차 대한적십자사 재난안전센터&quot; /&gt;&lt;/p&gt;
+---
+
+[day-1]: /RedCross-Lifeguard-day1
+[day-2]: /RedCross-Lifeguard-day2
+[day-3]: /RedCross-Lifeguard-day3
+[day-4]: /RedCross-Lifeguard-day4
+[day-5]: /RedCross-Lifeguard-day5
+[day-6]: /RedCross-Lifeguard-day6
+[day-7]: /RedCross-Lifeguard-day7
+[day-8]: /RedCross-Lifeguard-day8
+[day-9]: /RedCross-Lifeguard-day9
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;educode2=02&amp;edutypecode=01</content><author><name></name></author><category term="Lifeguard" /><summary type="html">9일차 검정 완료 후 동기들과 한 컷</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 8일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day8/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 8일차 교육 후기" /><published>2023-08-09T23:49:00+09:00</published><updated>2023-08-09T23:49:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day8</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day8/">![8일차 대한적십자사 재난안전센터](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day8.jpg)
 &lt;center&gt;8일차 대한적십자사 재난안전센터&lt;/center&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;장소-대한적십자사-재난안전센터-서울-양천구-중앙로-345-신월동-472-1&quot;&gt;장소: 대한적십자사 재난안전센터 (서울 양천구 중앙로 345, 신월동 472-1)&lt;/h2&gt;
+## 장소: 대한적십자사 재난안전센터 (서울 양천구 중앙로 345, 신월동 472-1)
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;8일차-후기&quot;&gt;8일차 후기&lt;/h2&gt;
-&lt;p&gt;8일차 교육은 응급처리 일반과정의 이론과 CPR 실행법과 AED 사용방법을 배운는 날입니다.&lt;/p&gt;
+## 8일차 후기
+8일차 교육은 응급처리 일반과정의 이론과 CPR 실행법과 AED 사용방법을 배운는 날입니다.
 
-&lt;p&gt;원래 장소는 대한적십자 서울특별지사 강의장이었는데 이번 8기만 장소를 변경했습니다.
-(주차비 없음)&lt;/p&gt;
+원래 장소는 대한적십자 서울특별지사 강의장이었는데 이번 8기만 장소를 변경했습니다.
+(주차비 없음)
 
-&lt;p&gt;응급처치(First Aid): 인체의 호흡계와 순환계에 대한 일반 상식을 배우고 CPR이 필요한 이유에 대해 배웠습니다.&lt;/p&gt;
+응급처치(First Aid): 인체의 호흡계와 순환계에 대한 일반 상식을 배우고 CPR이 필요한 이유에 대해 배웠습니다.
 
-&lt;h1 id=&quot;cpr--aed&quot;&gt;CPR &amp;amp; AED&lt;/h1&gt;
+# CPR &amp; AED
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    CPR이란, 심폐소생술(心肺蘇生術, 영어: cardio-pulmonary resuscitation, CPR)은 
-    심장의 기능이 정지하거나 호흡이 멈추었을 때 사용하는 응급처치
+        CPR이란, 심폐소생술(心肺蘇生術, 영어: cardio-pulmonary resuscitation, CPR)은 
+        심장의 기능이 정지하거나 호흡이 멈추었을 때 사용하는 응급처치
 
-    AED란, 자동심장충격기(AED, Automated External Defibrillator)는 
-    급성심정지(Sudden Cardiac Arrest) 환자, 또는 심장박동 기능을 잃어버린 사람에게 
-    전기충격을 주어 심장을 정상 상태로 회복시키는 일반인도 사용할 수 있는 의료기기입니다.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        AED란, 자동심장충격기(AED, Automated External Defibrillator)는 
+        급성심정지(Sudden Cardiac Arrest) 환자, 또는 심장박동 기능을 잃어버린 사람에게 
+        전기충격을 주어 심장을 정상 상태로 회복시키는 일반인도 사용할 수 있는 의료기기입니다.
 
-&lt;p&gt;더미 인형으로 CPR 실습과 AED 사용법을 배우고 실습하였습니다.&lt;/p&gt;
+더미 인형으로 CPR 실습과 AED 사용법을 배우고 실습하였습니다.
 
-&lt;p&gt;그간 지옥훈련 간 딱히 깊은 대화를 하기 힘들었던 동기들과 돌아가며 자기소개(라이프가드 지원 동기)를 하며
-마지막 날인 9일차 필기와 실기 검정 전 많은 대화를 나눌 수 있는 시간을 갖았습니다.&lt;/p&gt;
+그간 지옥훈련 간 딱히 깊은 대화를 하기 힘들었던 동기들과 돌아가며 자기소개(라이프가드 지원 동기)를 하며
+마지막 날인 9일차 필기와 실기 검정 전 많은 대화를 나눌 수 있는 시간을 갖았습니다.
 
-&lt;p&gt;강사님들의 몇가지 주의사항을 듣고 8일차 일정을 마쳤습니다.&lt;/p&gt;
+강사님들의 몇가지 주의사항을 듣고 8일차 일정을 마쳤습니다.
 
-&lt;p&gt;긴장 늦추지 말고 내일을 준비하라는 강사님의 당부에 따라 일찍 잠을 청해볼까합니다.&lt;/p&gt;
+긴장 늦추지 말고 내일을 준비하라는 강사님의 당부에 따라 일찍 잠을 청해볼까합니다.
 
-&lt;p&gt;내일(8/10, 목) 오전에 자수가서 몸을 좀 풀고
-오후 검정에 다녀오겠습니다.&lt;/p&gt;
+내일(8/10, 목) 오전에 자수가서 몸을 좀 풀고
+오후 검정에 다녀오겠습니다.
 
-&lt;p&gt;끝까지 최선을 다하겠습니다. 화이팅~~!!&lt;/p&gt;
+끝까지 최선을 다하겠습니다. 화이팅~~!!
 
-&lt;h1 id=&quot;인원&quot;&gt;인원&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;총원 29명&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;hr /&gt;
-&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day2&quot;&gt;2일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day3&quot;&gt;3일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day4&quot;&gt;4일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day5&quot;&gt;5일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day6&quot;&gt;6일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day7&quot;&gt;7일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;8일차 교육 후기 (현재글)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day9&quot;&gt;9일차 필기/실기 검정 후기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+# 인원
+ - 총원 29명
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;amp;educode2=02&amp;amp;edutypecode=01&quot;&gt;대한적십자사 인명구조요원 수강신청 바로가기&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
 
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
+---
+# 목차
+- [1일차 교육 후기][day-1]
+- [2일차 교육 후기][day-2]
+- [3일차 교육 후기][day-3]
+- [4일차 교육 후기][day-4]
+- [5일차 교육 후기][day-5]
+- [6일차 교육 후기][day-6]
+- [7일차 교육 후기][day-7]
+- 8일차 교육 후기 (현재글)
+- [9일차 필기/실기 검정 후기][day-9]
+
+
+&lt;BR /&gt;
+
+&gt; [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+&lt;BR /&gt;
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
 &lt;/script&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="Lifeguard" /><summary type="html">8일차 대한적십자사 재난안전센터</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 7일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day7/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 7일차 교육 후기" /><published>2023-08-08T23:58:00+09:00</published><updated>2023-08-08T23:58:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day7</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day7/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day7.jpg&quot; alt=&quot;7일차 구조영법 이론 복습&quot; /&gt;&lt;/p&gt;
+---
+
+[day-1]: /RedCross-Lifeguard-day1
+[day-2]: /RedCross-Lifeguard-day2
+[day-3]: /RedCross-Lifeguard-day3
+[day-4]: /RedCross-Lifeguard-day4
+[day-5]: /RedCross-Lifeguard-day5
+[day-6]: /RedCross-Lifeguard-day6
+[day-7]: /RedCross-Lifeguard-day7
+[day-8]: /RedCross-Lifeguard-day8
+[day-9]: /RedCross-Lifeguard-day9
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;educode2=02&amp;edutypecode=01</content><author><name></name></author><category term="Lifeguard" /><summary type="html">8일차 대한적십자사 재난안전센터</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 7일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day7/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 7일차 교육 후기" /><published>2023-08-08T23:58:00+09:00</published><updated>2023-08-08T23:58:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day7</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day7/">![7일차 구조영법 이론 복습](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day7.jpg)
 &lt;center&gt;7일차 구조영법 이론 복습&lt;/center&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;장소-올림픽수영장-다이빙풀수심-5m&quot;&gt;장소: 올림픽수영장 다이빙풀(수심 5m)&lt;/h2&gt;
+## 장소: 올림픽수영장 다이빙풀(수심 5m)
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;7일차-후기&quot;&gt;7일차 후기&lt;/h2&gt;
-&lt;p&gt;7일차 교육은 자유형 100m, 평영 100m, 횡영 100m, 기본배영 100m로 가볍게 웜업하고 시작했습니다.
-바로 잠영 25m (수경 착용), 중량물 50m (수경 x, 머리들고 자유형 25m, 중량물 꺼내서 25m) 실시했구요.&lt;/p&gt;
+## 7일차 후기
+7일차 교육은 자유형 100m, 평영 100m, 횡영 100m, 기본배영 100m로 가볍게 웜업하고 시작했습니다.
+바로 잠영 25m (수경 착용), 중량물 50m (수경 x, 머리들고 자유형 25m, 중량물 꺼내서 25m) 실시했구요.
 
-&lt;p&gt;항상 뒷쪽 열에 서서 잠영을 해서 숨을 좀 고른 상태로 했는데,
+항상 뒷쪽 열에 서서 잠영을 해서 숨을 좀 고른 상태로 했는데,
 오늘은 실제 실기 시험 때와 같은 가,나,다 순으로 도열하여 2번째 줄이라 긴장감도 높고 숨도 고르지 못한 상태였습니다.
-아니나 다를까 역시 20m 정도 가는 중 숨이 차오르기 시작하는데, 꾹 참고 빠르게 평영 스트로크와 평영 킥을 하여 25m에 다달았습니다.&lt;/p&gt;
+아니나 다를까 역시 20m 정도 가는 중 숨이 차오르기 시작하는데, 꾹 참고 빠르게 평영 스트로크와 평영 킥을 하여 25m에 다달았습니다.
 
-&lt;p&gt;아 오늘(7일차)에는 특이하게 수경없이 뒤로 누워 잠영과 바닥 보고 잠영을 각각 25m를 했습니다.
+아 오늘(7일차)에는 특이하게 수경없이 뒤로 누워 잠영과 바닥 보고 잠영을 각각 25m를 했습니다.
 물론 뒤로 누워 잠영은 (수직) 다리먼저 다이빙이 생각보다 잘 안되고
-수경이 없다는 것 등의 긴장감으로 대부분 10m 정도에서 올라왔지만요. ㅋ&lt;/p&gt;
+수경이 없다는 것 등의 긴장감으로 대부분 10m 정도에서 올라왔지만요. ㅋ
 
-&lt;p&gt;중량물은 계속 성공은 하는데 배영(평영킥)킥으로 하는 것을 보신 강사님이
-“영법은 상관없는데, 중량물을 가슴 아래로 너무 내리기 보단 가슴 위로 최대한 올려야 발차기가 쉽다”는
+중량물은 계속 성공은 하는데 배영(평영킥)킥으로 하는 것을 보신 강사님이
+&quot;영법은 상관없는데, 중량물을 가슴 아래로 너무 내리기 보단 가슴 위로 최대한 올려야 발차기가 쉽다&quot;는
 말씀하셔서 중량물 이동하는 동안 조금 올려봤는데 이게 쉽지 않더군요.
 킥이 좋지 않아서인지 머리가 자꾸 가라앉는 느낌이라 올리다말고 그대로 끝까지 갔습니다.
-동기 중에 벌크업이 잘된 한 친구는 중량물을 물 밖으로 거의 10cm 정도 들고 하기도 해서 동기들이 다 혀를 내둘렀습니다. ㅎ.ㅎ&lt;/p&gt;
+동기 중에 벌크업이 잘된 한 친구는 중량물을 물 밖으로 거의 10cm 정도 들고 하기도 해서 동기들이 다 혀를 내둘렀습니다. ㅎ.ㅎ
 
-&lt;p&gt;실기 시험과 동일한 순서를 해보길 잘했다는 생각이 든게, 만약 오늘 그 순서로 해보지 않았다면, 실기 당일 무척 긴장을 했을 것 같네요.&lt;/p&gt;
+실기 시험과 동일한 순서를 해보길 잘했다는 생각이 든게, 만약 오늘 그 순서로 해보지 않았다면, 실기 당일 무척 긴장을 했을 것 같네요.
 
-&lt;p&gt;5일차, 6일차에 배운 맨몸 구조법, 장비 구조법, 풀기, 경추환자 구조법 등을 순서대로 3인 1조로 실시했습니다.&lt;/p&gt;
+5일차, 6일차에 배운 맨몸 구조법, 장비 구조법, 풀기, 경추환자 구조법 등을 순서대로 3인 1조로 실시했습니다.
 
-&lt;h1 id=&quot;맨몸-구조법&quot;&gt;맨몸 구조법&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;수하접근: 머리먼저 다이빙(1초 내에 머리를 수면 위로 내어 익수자를 주시) + 헤드업 자유형 + 수하접근 + 양손 겨드랑이잡이 + 구조 배영 5회 + 로터리킥 5회 + 가슴잡기 후 구조 횡영(역가위차기)로 운반
-(* 수하접근은 의식이 있는 익수자에게만 사용하는 구조법임)&lt;/li&gt;
-  &lt;li&gt;뒤집기: 다리 벌려 들어가기 + 트러젠 + 준비서기(로터리킥) + 의식확인 + 구조대상자 뒤로 로터리킥으로 이동 + 양손을 겨드랑이 밑으로 끼워 수면에 구조자의 배꼽이 올라오도록 뒤집기 + 구조 배영으로 끝까지 운반&lt;/li&gt;
-  &lt;li&gt;손목끌기: 다리 굽혀 들어가기 + 헤드업 평영 + 준비서기(로터리킥) + 의식확인 + 구조대상자의 손목을 잡아 뒤집은 후 그대로 구조 횡영으로 운반
-(* 뒤집기와 손목끌기는 의식이 없는 익수자가 바닥을 보고 팔을 편채 엎드려 있는 경우에 사용하는 구조법임)&lt;/li&gt;
-&lt;/ul&gt;
+# 맨몸 구조법
+- 수하접근: 머리먼저 다이빙(1초 내에 머리를 수면 위로 내어 익수자를 주시) + 헤드업 자유형 + 수하접근 + 양손 겨드랑이잡이 + 구조 배영 5회 + 로터리킥 5회 + 가슴잡기 후 구조 횡영(역가위차기)로 운반
+(* 수하접근은 의식이 있는 익수자에게만 사용하는 구조법임)
+- 뒤집기: 다리 벌려 들어가기 + 트러젠 + 준비서기(로터리킥) + 의식확인 + 구조대상자 뒤로 로터리킥으로 이동 + 양손을 겨드랑이 밑으로 끼워 수면에 구조자의 배꼽이 올라오도록 뒤집기 + 구조 배영으로 끝까지 운반
+- 손목끌기: 다리 굽혀 들어가기 + 헤드업 평영 + 준비서기(로터리킥) + 의식확인 + 구조대상자의 손목을 잡아 뒤집은 후 그대로 구조 횡영으로 운반
+(* 뒤집기와 손목끌기는 의식이 없는 익수자가 바닥을 보고 팔을 편채 엎드려 있는 경우에 사용하는 구조법임)
 
-&lt;h1 id=&quot;장비-구조법&quot;&gt;장비 구조법&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;뻗어돕기: (레스큐 튜브 옆으로 놓고) 다리 굽혀 들어가기 + 헤드업 평영 + 준비서기(로터리킥) + 레스큐 튜브의 끈 찾기(시선은 구조자에게 고정) + 레스큐 튜브를 돌려 뻗어 익수자가 잡았는지 확인 후 끈을 잡고 구조 횡영으로 운반
-(* 뻗어돕기는 의식이 있는 익수자에게만 사용하는 구조법임)&lt;/li&gt;
-  &lt;li&gt;손목끌기: (레스큐 튜브) 가슴파지 + 다리 벌려 들어가기 + 헤드업 평영 + 준비서기 + 의식확인 + 레스큐 튜브 익수자의 손목을 잡아 뒤집으면서 레스큐 튜브 위로 익수자의 허리 정도까지 레스큐 튜브를 위치시킴 + 익수자 팔을 익수자 머리 위로 꺼냄 + 로터리킥을 차며 레스큐 튜브 양끝의 버클을 채움 + 끈이 엉키지 않도록 익수자 머리 위로 정리하여 끈을 잡고 구조 횡영으로 운반&lt;/li&gt;
-  &lt;li&gt;뒤집기: (레스큐 튜브) 가슴파지 + 다리 굽혀 들어가기 + 헤드업 평영 + 준비서기 + 의식확인 + 로터리킥으로 구조자 등 쪽으로 이동 + 양손을 주먹 쥔 상태로 구조자의 겨드랑이를 일으켜 레스큐 튜브 위로 올린 채로 구조 배영으로 운반
-(* 뻗어돕기는 의식이 있는 익수자, 손목끌기와 뒤집기는 의식이 없는 익수자에게 사용하는 구조법임)&lt;/li&gt;
-&lt;/ul&gt;
+# 장비 구조법
+- 뻗어돕기: (레스큐 튜브 옆으로 놓고) 다리 굽혀 들어가기 + 헤드업 평영 + 준비서기(로터리킥) + 레스큐 튜브의 끈 찾기(시선은 구조자에게 고정) + 레스큐 튜브를 돌려 뻗어 익수자가 잡았는지 확인 후 끈을 잡고 구조 횡영으로 운반
+(* 뻗어돕기는 의식이 있는 익수자에게만 사용하는 구조법임)
+- 손목끌기: (레스큐 튜브) 가슴파지 + 다리 벌려 들어가기 + 헤드업 평영 + 준비서기 + 의식확인 + 레스큐 튜브 익수자의 손목을 잡아 뒤집으면서 레스큐 튜브 위로 익수자의 허리 정도까지 레스큐 튜브를 위치시킴 + 익수자 팔을 익수자 머리 위로 꺼냄 + 로터리킥을 차며 레스큐 튜브 양끝의 버클을 채움 + 끈이 엉키지 않도록 익수자 머리 위로 정리하여 끈을 잡고 구조 횡영으로 운반
+- 뒤집기: (레스큐 튜브) 가슴파지 + 다리 굽혀 들어가기 + 헤드업 평영 + 준비서기 + 의식확인 + 로터리킥으로 구조자 등 쪽으로 이동 + 양손을 주먹 쥔 상태로 구조자의 겨드랑이를 일으켜 레스큐 튜브 위로 올린 채로 구조 배영으로 운반
+(* 뻗어돕기는 의식이 있는 익수자, 손목끌기와 뒤집기는 의식이 없는 익수자에게 사용하는 구조법임)
 
-&lt;p&gt;각 구조법을 3인 1조로 2회 씩 실시하여 몸에 익히는 훈련을 반복했습니다.&lt;/p&gt;
+각 구조법을 3인 1조로 2회 씩 실시하여 몸에 익히는 훈련을 반복했습니다.
 
-&lt;p&gt;저녁식사 후에는 웜업 없이 바로 평영 50m, 횡영 50m, 잠영 25m, 중량물 50m, 입영 3분을 실시했습니다.
+저녁식사 후에는 웜업 없이 바로 평영 50m, 횡영 50m, 잠영 25m, 중량물 50m, 입영 3분을 실시했습니다.
 (훈련 중간의 식사시간에 과식은 금물입니다. 저같은 경우는 삼각김밥 1개와 바나나 1개 그리고 음료수로 식사 대용했습니다.
 3일차까지의 그 혹독한 훈련에도 김밥 2줄을 먹을 정도였는데요. 가면 갈수록 과식하니 헛구역질도 나고 그래서 차라리
-좀 덜먹고 버텨보자 했더니 컨디션이 훨 괜찮아졌습니다.)&lt;/p&gt;
+좀 덜먹고 버텨보자 했더니 컨디션이 훨 괜찮아졌습니다.)
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  6일차까지 채 1분을 못 버티던 저의 입영이 짜잔 드디어 3분을 넘겼습니다. ^_^
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+      6일차까지 채 1분을 못 버티던 저의 입영이 짜잔 드디어 3분을 넘겼습니다. ^_^
 
-&lt;p&gt;물론 중간에 한 두번 한 손 스컬링을 했는데 이는 동기들과의 간격 조절이 잘 안되서 피하려 한 것인데
-실기 시험 때는 로터리킥을 잘 조정해서 손을 물 아래로 내리지 않도록 주의해야겠습니다.&lt;/p&gt;
+물론 중간에 한 두번 한 손 스컬링을 했는데 이는 동기들과의 간격 조절이 잘 안되서 피하려 한 것인데
+실기 시험 때는 로터리킥을 잘 조정해서 손을 물 아래로 내리지 않도록 주의해야겠습니다.
 
-&lt;p&gt;구조법을 하면서 익수자로서 그리고 구조자로서의 역할을 반복 훈련하다보니 로터리킥 연습이 자동으로 이루어지고
+구조법을 하면서 익수자로서 그리고 구조자로서의 역할을 반복 훈련하다보니 로터리킥 연습이 자동으로 이루어지고
 힘을 많이 안들이면서 수면에 떠있을 수 있게 된 것 같습니다. 역시 하면된다더니 정말 되네요.
-참고로 훈련 들어가기전 아침에 의자에 앉아서 3분 넘게 계속 평영 로터리킥을 연습한 것도 도움이 된 것 같습니다.&lt;/p&gt;
+참고로 훈련 들어가기전 아침에 의자에 앉아서 3분 넘게 계속 평영 로터리킥을 연습한 것도 도움이 된 것 같습니다.
 
-&lt;p&gt;이후 맨손 구조법, 장비 구조법, 풀기, 경추환자 구조법 등을 2회 이상 반복 훈련하고 7일차 교육을 마쳤습니다.&lt;/p&gt;
+이후 맨손 구조법, 장비 구조법, 풀기, 경추환자 구조법 등을 2회 이상 반복 훈련하고 7일차 교육을 마쳤습니다.
 
-&lt;p&gt;잘하는 동기들에게 잠깐 짬날때 수력을 물어봤는데 역시 잘하는 친구는 짧게 선수 생활을 한 친구도 있더라구요.
+잘하는 동기들에게 잠깐 짬날때 수력을 물어봤는데 역시 잘하는 친구는 짧게 선수 생활을 한 친구도 있더라구요.
 하지만 의외로 수력이 그리 길지 않은 동기들도 물론 젊긴하지만 강사님들 말씀 잘 듣고 열외하지 않고
-열심히 하다보니 정말 7일이라는 기간 동안 몰라보게 성장했습니다.&lt;/p&gt;
+열심히 하다보니 정말 7일이라는 기간 동안 몰라보게 성장했습니다.
 
-&lt;p&gt;다들 강행군에 점점 무릎 보호대, 어깨 테이핑, 무릎 테이핑한 동기들이 많아진 건 어쩔 수 없는 것 같습니다.&lt;/p&gt;
+다들 강행군에 점점 무릎 보호대, 어깨 테이핑, 무릎 테이핑한 동기들이 많아진 건 어쩔 수 없는 것 같습니다.
 
-&lt;p&gt;저는 평영 강습과 자수하면서 여러번 무릎에서 “빡” 소리나는 경험을 해서 최대한 무리하지 않으려고 노력한 결과 테이핑도 보호대도 하지 않고 7일차 일정을 소화할 수 있었습니다. 물론 그래서 입영킥이 실력이 더디 늘은 것일 수도 있지만요.&lt;/p&gt;
+저는 평영 강습과 자수하면서 여러번 무릎에서 &quot;빡&quot; 소리나는 경험을 해서 최대한 무리하지 않으려고 노력한 결과 테이핑도 보호대도 하지 않고 7일차 일정을 소화할 수 있었습니다. 물론 그래서 입영킥이 실력이 더디 늘은 것일 수도 있지만요.
 
-&lt;p&gt;7일차로서 수영 훈련은 모두 끝났습니다.&lt;/p&gt;
+7일차로서 수영 훈련은 모두 끝났습니다.
 
-&lt;p&gt;이제 내일(8일차) 응급처치 이론 교육과 CPR 실습을 마치면 정말 거의 끝이 납니다.&lt;/p&gt;
+이제 내일(8일차) 응급처치 이론 교육과 CPR 실습을 마치면 정말 거의 끝이 납니다.
 
-&lt;p&gt;녹초가 되어 금방이라도 누워버리고 싶은 마음에도 깜지 숙제도 하고 이글을 적어가면서 마음을 다잡았습니다.
-응원해주신 모든 분들에게 진심으로 머리숙여 감사드립니다.&lt;/p&gt;
+녹초가 되어 금방이라도 누워버리고 싶은 마음에도 깜지 숙제도 하고 이글을 적어가면서 마음을 다잡았습니다.
+응원해주신 모든 분들에게 진심으로 머리숙여 감사드립니다.
 
-&lt;h1 id=&quot;인원&quot;&gt;인원&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;총원 29명&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;hr /&gt;
-&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day2&quot;&gt;2일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day3&quot;&gt;3일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day4&quot;&gt;4일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day5&quot;&gt;5일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day6&quot;&gt;6일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;7일차 교육 후기 (현재글)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day8&quot;&gt;8일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day9&quot;&gt;9일차 필기/실기 검정 후기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+# 인원
+ - 총원 29명
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;amp;educode2=02&amp;amp;edutypecode=01&quot;&gt;대한적십자사 인명구조요원 수강신청 바로가기&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+---
+# 목차
+- [1일차 교육 후기][day-1]
+- [2일차 교육 후기][day-2]
+- [3일차 교육 후기][day-3]
+- [4일차 교육 후기][day-4]
+- [5일차 교육 후기][day-5]
+- [6일차 교육 후기][day-6]
+- 7일차 교육 후기 (현재글)
+- [8일차 교육 후기][day-8]
+- [9일차 필기/실기 검정 후기][day-9]
 
-&lt;hr /&gt;
+&lt;BR /&gt;
 
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
+&gt; [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+&lt;BR /&gt;
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
 &lt;/script&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="Lifeguard" /><summary type="html">7일차 구조영법 이론 복습</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 6일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day6/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 6일차 교육 후기" /><published>2023-08-08T09:07:00+09:00</published><updated>2023-08-08T09:07:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day6</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day6/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day6.jpg&quot; alt=&quot;6일차 뺑뺑이 돌고난 후 동기들과 나&quot; /&gt;&lt;/p&gt;
+---
+
+[day-1]: /RedCross-Lifeguard-day1
+[day-2]: /RedCross-Lifeguard-day2
+[day-3]: /RedCross-Lifeguard-day3
+[day-4]: /RedCross-Lifeguard-day4
+[day-5]: /RedCross-Lifeguard-day5
+[day-6]: /RedCross-Lifeguard-day6
+[day-7]: /RedCross-Lifeguard-day7
+[day-8]: /RedCross-Lifeguard-day8
+[day-9]: /RedCross-Lifeguard-day9
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;educode2=02&amp;edutypecode=01</content><author><name></name></author><category term="Lifeguard" /><summary type="html">7일차 구조영법 이론 복습</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 6일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day6/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 6일차 교육 후기" /><published>2023-08-08T09:07:00+09:00</published><updated>2023-08-08T09:07:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day6</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day6/">![6일차 뺑뺑이 돌고난 후 동기들과 나](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day6.jpg)
 &lt;center&gt;6일차 뺑뺑이 돌고난 후 동기들과 나&lt;/center&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;장소-올림픽수영장-다이빙풀수심-5m&quot;&gt;장소: 올림픽수영장 다이빙풀(수심 5m)&lt;/h2&gt;
+## 장소: 올림픽수영장 다이빙풀(수심 5m)
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;6일차-후기&quot;&gt;6일차 후기&lt;/h2&gt;
-&lt;p&gt;주말에 체력이 좀 회복되어 안되는 구조영법과 입영 위주로 자수를 갔었는데요.
+## 6일차 후기
+주말에 체력이 좀 회복되어 안되는 구조영법과 입영 위주로 자수를 갔었는데요.
 자유수영 2시간이 세상 그렇게 빨리 갈줄 몰랐습니다.
-체력이 좋아져서인지 아니면 정신줄을 놓아서인지 모르겠지만요. ^_^&lt;/p&gt;
+체력이 좋아져서인지 아니면 정신줄을 놓아서인지 모르겠지만요. ^_^
 
-&lt;p&gt;6일차는 경영 영법과 구조 영법 교정을 위해서 천천히 글라이드 많이 하며 웝업을 시작했습니다.
-자유형 300m, 평영 300m, 트러젠 100m, 횡영 100m, 기본배영 100m&lt;/p&gt;
+6일차는 경영 영법과 구조 영법 교정을 위해서 천천히 글라이드 많이 하며 웝업을 시작했습니다.
+자유형 300m, 평영 300m, 트러젠 100m, 횡영 100m, 기본배영 100m
 
-&lt;p&gt;6일차 실기 테스트 (일부)는 잠영 25m(수경 착용), 중량물(수경 x) 만 실시했는데 동기들 거의 대부분 통과했습니다.
+6일차 실기 테스트 (일부)는 잠영 25m(수경 착용), 중량물(수경 x) 만 실시했는데 동기들 거의 대부분 통과했습니다.
 역시 훈련의 효과가 나타나는 것 같아 동기들 스스로도 자부심이 고취되어 힘들어도 항상 웃으며 구령도 쩌렁쩌렁해졌습니다.
-올림픽수영장 떠나게가요. (경영풀에서 강습받는 분들과 다이빙풀에서 다이빙 강습하시는 분들께는 죄송…)&lt;/p&gt;
+올림픽수영장 떠나게가요. (경영풀에서 강습받는 분들과 다이빙풀에서 다이빙 강습하시는 분들께는 죄송...)
 
-&lt;p&gt;6일차 교육은 마지막 구조법 교육으로서 ‘풀기’와 ‘경추환자 구조법’을 배웠습니다.&lt;/p&gt;
+6일차 교육은 마지막 구조법 교육으로서 '풀기'와 '경추환자 구조법'을 배웠습니다.
 
-&lt;h1 id=&quot;풀기&quot;&gt;풀기&lt;/h1&gt;
-&lt;p&gt;의식있는 익수자에 수상인명구조요원이 다가가다 손이나 목을 잡힌 경우 함께 익사하지 않기 위해서 빠르게 풀고 나와 다시 구조 준비&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;손목 풀기: 잡히지 않은 손으로 익수자 어깨를 찍어 눌러 함께 물 속으로 입수하여 손을 풀고 배영 잠영으로 5m 이상 거리 확보&lt;/li&gt;
-  &lt;li&gt;앞목 풀기: 구조자의 기도 확보와 함께 물 속으로 &lt;del&gt;수직 다이빙&lt;/del&gt; 다리먼저 다이빙 후 익수자의 팔꿈치를 들어올려 빠져 나와 잠영으로 거리 확보&lt;/li&gt;
-  &lt;li&gt;뒷목 풀기: 앞목 풀기와 동일하나 익수자가 구조자 뒤에서 잡은 것만 다름&lt;/li&gt;
-&lt;/ol&gt;
+# 풀기
+의식있는 익수자에 수상인명구조요원이 다가가다 손이나 목을 잡힌 경우 함께 익사하지 않기 위해서 빠르게 풀고 나와 다시 구조 준비
+1. 손목 풀기: 잡히지 않은 손으로 익수자 어깨를 찍어 눌러 함께 물 속으로 입수하여 손을 풀고 배영 잠영으로 5m 이상 거리 확보
+2. 앞목 풀기: 구조자의 기도 확보와 함께 물 속으로 ~~수직 다이빙~~ 다리먼저 다이빙 후 익수자의 팔꿈치를 들어올려 빠져 나와 잠영으로 거리 확보
+3. 뒷목 풀기: 앞목 풀기와 동일하나 익수자가 구조자 뒤에서 잡은 것만 다름
 
-&lt;h1 id=&quot;경추환자-구조법&quot;&gt;경추환자 구조법&lt;/h1&gt;
-&lt;ol&gt;
-  &lt;li&gt;머리 고정법: 익수자의 팔의 상완을 좌우로 눌러 머리를 고정하는 기술, 고정 후 익수자 얼굴이 하늘로 향하도록 조심스럽게 뒤집기&lt;/li&gt;
-  &lt;li&gt;머리목 고정법: 익수자의 턱과 뒷 머리를 구조자의 양 전완으로 고정 후 구조자가 물속으로 돌면서 익수자의 얼굴이 하늘로 향하도록 뒤집기&lt;/li&gt;
-&lt;/ol&gt;
+# 경추환자 구조법
+1. 머리 고정법: 익수자의 팔의 상완을 좌우로 눌러 머리를 고정하는 기술, 고정 후 익수자 얼굴이 하늘로 향하도록 조심스럽게 뒤집기
+2. 머리목 고정법: 익수자의 턱과 뒷 머리를 구조자의 양 전완으로 고정 후 구조자가 물속으로 돌면서 익수자의 얼굴이 하늘로 향하도록 뒤집기
 
-&lt;p&gt;나머지 시간은 ‘풀기’와 ‘경추환자 구조법’ 실습 훈련을 3회씩 지상 훈련 후 수중 훈련을 3회씩 실시했습니다.&lt;/p&gt;
+나머지 시간은 '풀기'와 '경추환자 구조법' 실습 훈련을 3회씩 지상 훈련 후 수중 훈련을 3회씩 실시했습니다.
 
-&lt;p&gt;어려운 점은 풀기 후 하늘을 본 상태로 잠영(익수자 근처에서는 손 스트로크만 이후 기본 배영)으로 이동해야하는데
+어려운 점은 풀기 후 하늘을 본 상태로 잠영(익수자 근처에서는 손 스트로크만 이후 기본 배영)으로 이동해야하는데
 이게 호흡과 긴장감 때문에 물도 먹고 어렵더라구요.
 물 속으로 잠영해야하는 이유는 물 표면으로 이동하는 경우 익수자에게 다시 잡힐 확률이 높아서
-익수자와 인명구조요원의 목숨이 위태로울 수 있기 때문입니다.&lt;/p&gt;
+익수자와 인명구조요원의 목숨이 위태로울 수 있기 때문입니다.
 
-&lt;p&gt;강사님이 훈련 중 똑바로 안한다고 헤드업 자유형을 4~5회 반복한 건 비밀입니다. (일종에 얼차려죠…ㅡ.ㅡ)&lt;/p&gt;
+강사님이 훈련 중 똑바로 안한다고 헤드업 자유형을 4~5회 반복한 건 비밀입니다. (일종에 얼차려죠...ㅡ.ㅡ)
 
-&lt;p&gt;이제 얼마남지 않은 일정인데 저는 아직 입영 3분이 아리까리 합니다.&lt;/p&gt;
+이제 얼마남지 않은 일정인데 저는 아직 입영 3분이 아리까리 합니다.
 
-&lt;p&gt;시험 당일에는 다들 초인적인 힘이 나오더라는 강사님들의 말씀처럼 슈퍼맨이 되었으면 좋겠네요.&lt;/p&gt;
+시험 당일에는 다들 초인적인 힘이 나오더라는 강사님들의 말씀처럼 슈퍼맨이 되었으면 좋겠네요.
 
-&lt;p&gt;그럼 마지막까지 화이팅 입니다~~!!&lt;/p&gt;
+그럼 마지막까지 화이팅 입니다~~!!
 
-&lt;h1 id=&quot;인원&quot;&gt;인원&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;총원 29명&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;hr /&gt;
-&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day2&quot;&gt;2일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day3&quot;&gt;3일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day4&quot;&gt;4일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day5&quot;&gt;5일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;6일차 교육 후기 (현재글)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day7&quot;&gt;7일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day8&quot;&gt;8일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day9&quot;&gt;9일차 필기/실기 검정 후기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;amp;educode2=02&amp;amp;edutypecode=01&quot;&gt;대한적십자사 인명구조요원 수강신청 바로가기&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+# 인원
+ - 총원 29명
 
-&lt;hr /&gt;
 
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
+---
+# 목차
+- [1일차 교육 후기][day-1]
+- [2일차 교육 후기][day-2]
+- [3일차 교육 후기][day-3]
+- [4일차 교육 후기][day-4]
+- [5일차 교육 후기][day-5]
+- 6일차 교육 후기 (현재글)
+- [7일차 교육 후기][day-7]
+- [8일차 교육 후기][day-8]
+- [9일차 필기/실기 검정 후기][day-9]
+
+
+&lt;BR /&gt;
+
+&gt; [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+&lt;BR /&gt;
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
 &lt;/script&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="Lifeguard" /><summary type="html">6일차 뺑뺑이 돌고난 후 동기들과 나</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 5일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day5/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 5일차 교육 후기" /><published>2023-08-04T23:36:00+09:00</published><updated>2023-08-04T23:36:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day5</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day5/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day5.jpg&quot; alt=&quot;5일차 입영하는 동기들과 나&quot; /&gt;&lt;/p&gt;
+---
+
+[day-1]: /RedCross-Lifeguard-day1
+[day-2]: /RedCross-Lifeguard-day2
+[day-3]: /RedCross-Lifeguard-day3
+[day-4]: /RedCross-Lifeguard-day4
+[day-5]: /RedCross-Lifeguard-day5
+[day-6]: /RedCross-Lifeguard-day6
+[day-7]: /RedCross-Lifeguard-day7
+[day-8]: /RedCross-Lifeguard-day8
+[day-9]: /RedCross-Lifeguard-day9
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;educode2=02&amp;edutypecode=01</content><author><name></name></author><category term="Lifeguard" /><summary type="html">6일차 뺑뺑이 돌고난 후 동기들과 나</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 5일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day5/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 5일차 교육 후기" /><published>2023-08-04T23:36:00+09:00</published><updated>2023-08-04T23:36:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day5</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day5/">![5일차 입영하는 동기들과 나](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day5.jpg)
 &lt;center&gt;5일차 입영하는 동기들과 나&lt;/center&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;장소-올림픽수영장-다이빙풀수심-5m&quot;&gt;장소: 올림픽수영장 다이빙풀(수심 5m)&lt;/h2&gt;
+## 장소: 올림픽수영장 다이빙풀(수심 5m)
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;5일차-후기&quot;&gt;5일차 후기&lt;/h2&gt;
+## 5일차 후기
 
-&lt;p&gt;5일차는 실기시험 시뮬레이션을 위해서인지 지상 스트레칭 후 바로 실기시험 세트를 실시했습니다.&lt;/p&gt;
+5일차는 실기시험 시뮬레이션을 위해서인지 지상 스트레칭 후 바로 실기시험 세트를 실시했습니다.
 
-&lt;h1 id=&quot;실기-시험-일부-4종-세트&quot;&gt;실기 시험 (일부) 4종 세트&lt;/h1&gt;
-&lt;ol&gt;
-  &lt;li&gt;평영 50m(수경 착용) + 횡영 50m(수경 x) : 3분 이내 통과&lt;/li&gt;
-  &lt;li&gt;잠영 25m(수경 착용): 데크(풀사이드) 잡고 서있다가 출발 신호 후 호흡 가다듬고 출발 반대편 데크에 손 터치 후 퇴수 (시간 제한 없음, 천천히 가는 경우 28~31초 정도)&lt;/li&gt;
-  &lt;li&gt;중량물(5kg, 수경 x) =&amp;gt; 입수법 + 헤드업 자유형 25m + 중량물 잡고 반대편으로 25m 구조 횡영: 1분 30초 이내 통과&lt;/li&gt;
-  &lt;li&gt;입영(수경 x): 머리(턱)와 손목이 수면 위로 나온채로 3분 이상 로터리킥으로 입영&lt;/li&gt;
-&lt;/ol&gt;
+# 실기 시험 (일부) 4종 세트
+1. 평영 50m(수경 착용) + 횡영 50m(수경 x) : 3분 이내 통과
+2. 잠영 25m(수경 착용): 데크(풀사이드) 잡고 서있다가 출발 신호 후 호흡 가다듬고 출발 반대편 데크에 손 터치 후 퇴수 (시간 제한 없음, 천천히 가는 경우 28~31초 정도)
+3. 중량물(5kg, 수경 x) =&gt; 입수법 + 헤드업 자유형 25m + 중량물 잡고 반대편으로 25m 구조 횡영: 1분 30초 이내 통과
+4. 입영(수경 x): 머리(턱)와 손목이 수면 위로 나온채로 3분 이상 로터리킥으로 입영
 
-&lt;p&gt;레스큐 튜브(Rescue Tube)에 매달린 중량물만 보면 심장이 미친듯이 뛰며 몸에 진이 빠진 것 같은 상태가 되는데,
+레스큐 튜브(Rescue Tube)에 매달린 중량물만 보면 심장이 미친듯이 뛰며 몸에 진이 빠진 것 같은 상태가 되는데,
 어제(4일차) 3분의 2지점까지 갔던 기억을 하며 (미친사람 마냥) 온몸을 두들기며 차례를 기다렸습니다.
-드디어 중량물을 향해 ‘전방에 익수자 발견’을 외치며 다리벌려뛰기로 입수 후 헤드업 자유형 22~23m,
-빠른 수면 다이빙으로 중량물을 향해 잠영, 중량물을 잡고 벽을 차고 반대 방향으로 구조 횡영 또는 기본 배영(감점 있음)&lt;/p&gt;
+드디어 중량물을 향해 '전방에 익수자 발견'을 외치며 다리벌려뛰기로 입수 후 헤드업 자유형 22~23m,
+빠른 수면 다이빙으로 중량물을 향해 잠영, 중량물을 잡고 벽을 차고 반대 방향으로 구조 횡영 또는 기본 배영(감점 있음)
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  “드디어 5일차에 중량물을 들고 끝까지 완주했습니다!!!”
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+      “드디어 5일차에 중량물을 들고 끝까지 완주했습니다!!!”
 
-&lt;p&gt;영법은 감점이 있다는 기본 배영을 선택하고 중량물은 두 손으로 가슴 조금 아래에 둔채로 이동,
-마지막 5m에 숨이 꼴깍 꼴깍 넘어가고, 물이 얼굴을 뒤덥는데 참고 끝까지 갔습니다.  성공 ~~!!&lt;/p&gt;
+영법은 감점이 있다는 기본 배영을 선택하고 중량물은 두 손으로 가슴 조금 아래에 둔채로 이동,
+마지막 5m에 숨이 꼴깍 꼴깍 넘어가고, 물이 얼굴을 뒤덥는데 참고 끝까지 갔습니다.  성공 ~~!!
 
-&lt;p&gt;너무 기뻤지만 요동치는 심장에 주저앉아 숨을 고르는데, 강사님이 뛰어와 포옹을…. ㅋ.ㅋ
-동기들도 모두 박수치며 축하해줬습니다.  또 사람 마음이 간사한게 이게 뭐라고 좀 민망하더군요. ㅎ.ㅎ&lt;/p&gt;
+너무 기뻤지만 요동치는 심장에 주저앉아 숨을 고르는데, 강사님이 뛰어와 포옹을.... ㅋ.ㅋ
+동기들도 모두 박수치며 축하해줬습니다.  또 사람 마음이 간사한게 이게 뭐라고 좀 민망하더군요. ㅎ.ㅎ
 
-&lt;p&gt;심박수가 아직 떨어지지 않은 상태로 입영을 바로 이어서 3분 했는데, 문제는 손목을 계속 유지하지 못하고 있다는 점입니다.&lt;/p&gt;
+심박수가 아직 떨어지지 않은 상태로 입영을 바로 이어서 3분 했는데, 문제는 손목을 계속 유지하지 못하고 있다는 점입니다.
 
-&lt;p&gt;(Update 8/4) 돌이켜보니 중량물을 계속 실패한 원인은 수경없이 잘 보이지 않는 물 속에서 중량물을 찾아 들고 올라와야한다는 거부감(?), 부담감(?)이 컸던 것 같습니다. 4일차의 수하접근 훈련을 하며 익수자 발 밑으로 잠영하여 뒤집고 익수자를 물 표면에 띄우는 동안 충분한 숨이 있다는 것 그리고 수경없이 그 모든 것이 가능했으며 반복 훈련한 것이 큰 도움이 된 것 같습니다. 수영은 오래했었지만 수경을 쓰지 않고 물에 들어가본 적이 없었더라구요. ㅋ&lt;/p&gt;
+(Update 8/4) 돌이켜보니 중량물을 계속 실패한 원인은 수경없이 잘 보이지 않는 물 속에서 중량물을 찾아 들고 올라와야한다는 거부감(?), 부담감(?)이 컸던 것 같습니다. 4일차의 수하접근 훈련을 하며 익수자 발 밑으로 잠영하여 뒤집고 익수자를 물 표면에 띄우는 동안 충분한 숨이 있다는 것 그리고 수경없이 그 모든 것이 가능했으며 반복 훈련한 것이 큰 도움이 된 것 같습니다. 수영은 오래했었지만 수경을 쓰지 않고 물에 들어가본 적이 없었더라구요. ㅋ
 
-&lt;p&gt;실기 테스트 시뮬레이션 완료 후 장비 구조법의 이론 수업을 했습니다.&lt;/p&gt;
+실기 테스트 시뮬레이션 완료 후 장비 구조법의 이론 수업을 했습니다.
 
-&lt;h1 id=&quot;장비-구조법&quot;&gt;장비 구조법&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day5-1.png&quot; alt=&quot;레스큐 튜브&quot; /&gt;&lt;/p&gt;
+# 장비 구조법
+![레스큐 튜브](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day5-1.png)
 &lt;center&gt;레스큐 튜브&lt;/center&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;뻗어돕기: 의식이 있는 익수자 2~3m 전에 레스큐 튜브를 잡아 의지하도록 건네고 익수자가 잡은 것을 확인 후 끈을 잡고 구조횡영으로 물 밖으로 인도하기&lt;/li&gt;
-  &lt;li&gt;손목끌기: 맨몸 구조법과 같으나 익수자의 팔을 잡고 뒤집으면서 동시에 익수자 허리에 레스큐 튜브를 받친 후 튜브의 버클을 잠근 후 끈을 잡고 구조횡영으로 물 밖으로 인도하기&lt;/li&gt;
-  &lt;li&gt;뒤집기: 주먹을 쥔채 양쪽 겨드랑이에 끼워 레스큐 튜브 위로 익수자의 몸을 뒤집은 후 그대로 구조 배영으로 물 밖으로 인도하기&lt;/li&gt;
-&lt;/ol&gt;
+1. 뻗어돕기: 의식이 있는 익수자 2~3m 전에 레스큐 튜브를 잡아 의지하도록 건네고 익수자가 잡은 것을 확인 후 끈을 잡고 구조횡영으로 물 밖으로 인도하기
+2. 손목끌기: 맨몸 구조법과 같으나 익수자의 팔을 잡고 뒤집으면서 동시에 익수자 허리에 레스큐 튜브를 받친 후 튜브의 버클을 잠근 후 끈을 잡고 구조횡영으로 물 밖으로 인도하기
+3. 뒤집기: 주먹을 쥔채 양쪽 겨드랑이에 끼워 레스큐 튜브 위로 익수자의 몸을 뒤집은 후 그대로 구조 배영으로 물 밖으로 인도하기
 
-&lt;p&gt;지상에서 2인 1조로 2~3회 훈련 후 수중 훈련은 3인 1조로 실시했습니다.&lt;/p&gt;
+지상에서 2인 1조로 2~3회 훈련 후 수중 훈련은 3인 1조로 실시했습니다.
 
-&lt;p&gt;장비 구조법 훈련을 마친 후 잠시 휴식 후 다시 실기 4종 세트 시뮬레이션을 다시 했습니다.&lt;/p&gt;
+장비 구조법 훈련을 마친 후 잠시 휴식 후 다시 실기 4종 세트 시뮬레이션을 다시 했습니다.
 
-&lt;p&gt;두번째 중량물도 이번에 거뜬히 25m 이동했네요. ^&lt;em&gt;__&lt;/em&gt;^
-역시 한번되면 계속 된다더니 정말 신기하게도 그렇더라구요.&lt;/p&gt;
+두번째 중량물도 이번에 거뜬히 25m 이동했네요. ^____^
+역시 한번되면 계속 된다더니 정말 신기하게도 그렇더라구요.
 
-&lt;p&gt;아직 중량물을 4~5m 남기고 실패한 동기 2명과 잠영 시  머리가 아파서 간혹 중간에 올라오는 동기 한 명만 완주하면,
-실기 시험에 전원 통과할 것 같습니다.&lt;/p&gt;
+아직 중량물을 4~5m 남기고 실패한 동기 2명과 잠영 시  머리가 아파서 간혹 중간에 올라오는 동기 한 명만 완주하면,
+실기 시험에 전원 통과할 것 같습니다.
 
-&lt;p&gt;물론 저는 아직 ‘입영 3분’이라는 큰 숙제가 남았지만요. ㅡ,ㅡ&lt;/p&gt;
+물론 저는 아직 '입영 3분'이라는 큰 숙제가 남았지만요. ㅡ,ㅡ
 
-&lt;p&gt;실기 테스트 후 입영 + 스컬링으로 천천히 전후좌우 이동하기 25m 네 번 왕복 후 IM 100m 후 5주차 수중훈련은 좀 일찍 마쳤습니다.&lt;/p&gt;
+실기 테스트 후 입영 + 스컬링으로 천천히 전후좌우 이동하기 25m 네 번 왕복 후 IM 100m 후 5주차 수중훈련은 좀 일찍 마쳤습니다.
 
-&lt;p&gt;이후 옷갈아입고 올림픽 수영장 앞 벤치에 모여서 필기 시험에 대한 문제 몇가지 퀴즈 맞추기, 숙제 등 이야기 후 해산했습니다.&lt;/p&gt;
+이후 옷갈아입고 올림픽 수영장 앞 벤치에 모여서 필기 시험에 대한 문제 몇가지 퀴즈 맞추기, 숙제 등 이야기 후 해산했습니다.
 
-&lt;p&gt;서로 격려해주고 잘 안되는 동기 있으면 서로 알려주려는 마음에 고맙고 든든합니다.&lt;/p&gt;
+서로 격려해주고 잘 안되는 동기 있으면 서로 알려주려는 마음에 고맙고 든든합니다.
 
-&lt;p&gt;“8기 화이팅 ~!”&lt;/p&gt;
+&quot;8기 화이팅 ~!&quot; 
 
-&lt;h1 id=&quot;인원&quot;&gt;인원&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;총원 29명&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;hr /&gt;
-&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day2&quot;&gt;2일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day3&quot;&gt;3일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day4&quot;&gt;4일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;5일차 교육 후기 (현재글)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day6&quot;&gt;6일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day7&quot;&gt;7일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day8&quot;&gt;8일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day9&quot;&gt;9일차 필기/실기 검정 후기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+# 인원
+ - 총원 29명
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;amp;educode2=02&amp;amp;edutypecode=01&quot;&gt;대한적십자사 인명구조요원 수강신청 바로가기&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
 
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
+---
+# 목차
+- [1일차 교육 후기][day-1]
+- [2일차 교육 후기][day-2]
+- [3일차 교육 후기][day-3]
+- [4일차 교육 후기][day-4]
+- 5일차 교육 후기 (현재글)
+- [6일차 교육 후기][day-6]
+- [7일차 교육 후기][day-7]
+- [8일차 교육 후기][day-8]
+- [9일차 필기/실기 검정 후기][day-9]
+
+&lt;BR /&gt;
+
+&gt; [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+&lt;BR /&gt;
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
 &lt;/script&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="Lifeguard" /><summary type="html">5일차 입영하는 동기들과 나</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 4일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day4/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 4일차 교육 후기" /><published>2023-08-04T08:05:00+09:00</published><updated>2023-08-04T08:05:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day4</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day4/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day4.jpg&quot; alt=&quot;4일차 입영하는 동기들&quot; /&gt;&lt;/p&gt;
+---
+
+[day-1]: /RedCross-Lifeguard-day1
+[day-2]: /RedCross-Lifeguard-day2
+[day-3]: /RedCross-Lifeguard-day3
+[day-4]: /RedCross-Lifeguard-day4
+[day-5]: /RedCross-Lifeguard-day5
+[day-6]: /RedCross-Lifeguard-day6
+[day-7]: /RedCross-Lifeguard-day7
+[day-8]: /RedCross-Lifeguard-day8
+[day-9]: /RedCross-Lifeguard-day9
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;educode2=02&amp;edutypecode=01</content><author><name></name></author><category term="Lifeguard" /><summary type="html">5일차 입영하는 동기들과 나</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 4일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day4/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 4일차 교육 후기" /><published>2023-08-04T08:05:00+09:00</published><updated>2023-08-04T08:05:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day4</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day4/">![4일차 입영하는 동기들](https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day4.jpg)
 &lt;center&gt;4일차 입영하는 동기들&lt;/center&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;장소-올림픽수영장-다이빙풀수심-5m&quot;&gt;장소: 올림픽수영장 다이빙풀(수심 5m)&lt;/h2&gt;
+## 장소: 올림픽수영장 다이빙풀(수심 5m)
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;BR /&gt;
 
-&lt;h2 id=&quot;4일차-후기&quot;&gt;4일차 후기&lt;/h2&gt;
+## 4일차 후기
 
-&lt;p&gt;4일차 교육 후기라 적고 생존 신고라 읽습니다.&lt;/p&gt;
+4일차 교육 후기라 적고 생존 신고라 읽습니다. 
 
-&lt;p&gt;4일차 교육 후 깜지 숙제도 못하고 그대로 쓰러져 기절 취침했습니다. 
-그나마 그간 쌓인 긴장감과 피로도를 잠으로 풀어낸 것 같아 다행이라 생각합니다.&lt;/p&gt;
+4일차 교육 후 깜지 숙제도 못하고 그대로 쓰러져 기절 취침했습니다. 
+그나마 그간 쌓인 긴장감과 피로도를 잠으로 풀어낸 것 같아 다행이라 생각합니다. 
 
-&lt;p&gt;4일차는 천천히 제대로 영법하며 몸풀기 1,200m 를 하며 시작했습니다.  자유형 300m, 평영 300m, 구조횡영 200m, 기본배영 200m, 트러젠 200m, …&lt;/p&gt;
+4일차는 천천히 제대로 영법하며 몸풀기 1,200m 를 하며 시작했습니다.  자유형 300m, 평영 300m, 구조횡영 200m, 기본배영 200m, 트러젠 200m, … 
 
-&lt;h1 id=&quot;접근법-및-구조법&quot;&gt;접근법 및 구조법&lt;/h1&gt;
-&lt;p&gt;이후 익수자 구조를 위한 구조법: 수하접근, 양손겨드랑이잡기,  뒤집기, 손목끌기 등에 대한 이론 설명과 지상 훈련을 했습니다.&lt;br /&gt;
-다른 것은 명쾌해서 반복 훈련으로 금방 익혔는데 손목끌기는 동기들 모두 혼란스러워하더군요.&lt;/p&gt;
 
-&lt;p&gt;수하접근은 익수자 발 밑으로 잠영하여 익수자의 뒤쪽으로 돌아나가는 구조법을 말하며 주의할 점은 익수자의 중심 아래로 잠영해야한다는 것입니다.&lt;/p&gt;
+# 접근법 및 구조법
+이후 익수자 구조를 위한 구조법: 수하접근, 양손겨드랑이잡기,  뒤집기, 손목끌기 등에 대한 이론 설명과 지상 훈련을 했습니다.  
+다른 것은 명쾌해서 반복 훈련으로 금방 익혔는데 손목끌기는 동기들 모두 혼란스러워하더군요. 
 
-&lt;p&gt;손목끌기는 물에 엎어져있는 익수자의 손목을 잡아 뒤집고 그대로 구조횡영으로 물밖으로 끌어내는 구조법을 말합니다. 
-이때 구조자와 익수자의 손은 같은 쪽, 즉 오른손이면 오른손, 왼손이면 왼손을 잡아야한다는 것입니다.&lt;/p&gt;
+수하접근은 익수자 발 밑으로 잠영하여 익수자의 뒤쪽으로 돌아나가는 구조법을 말하며 주의할 점은 익수자의 중심 아래로 잠영해야한다는 것입니다. 
 
-&lt;p&gt;잠시 휴식 후 이제 본격적으로 물속에서 구조법 훈련을 3인 1조로 실시합니다. 
+손목끌기는 물에 엎어져있는 익수자의 손목을 잡아 뒤집고 그대로 구조횡영으로 물밖으로 끌어내는 구조법을 말합니다. 
+이때 구조자와 익수자의 손은 같은 쪽, 즉 오른손이면 오른손, 왼손이면 왼손을 잡아야한다는 것입니다. 
+
+잠시 휴식 후 이제 본격적으로 물속에서 구조법 훈련을 3인 1조로 실시합니다. 
 3일간의 특훈으로 근육이 붙었는지 동기들 모두 다소 쉽게 구조법을 실전과 같이 실시할 수 있었습니다. 
-첫 번째 사람은 익수자 역할, 두번째 사람은 구조자 역할, 세번째 사람은 대기하며 역할 바꿔가며 반복 훈련을 했습니다.&lt;/p&gt;
+첫 번째 사람은 익수자 역할, 두번째 사람은 구조자 역할, 세번째 사람은 대기하며 역할 바꿔가며 반복 훈련을 했습니다. 
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    “라이프가드는 익수자에게 물 한 방울도 더 먹이지 않는다!” 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        “라이프가드는 익수자에게 물 한 방울도 더 먹이지 않는다!” 
 
-&lt;p&gt;는 구호 복명복창했듯이 익수자 역할한 동기에게 물 먹었는지도 물어보며 반복 훈련했습니다.&lt;/p&gt;
+는 구호 복명복창했듯이 익수자 역할한 동기에게 물 먹었는지도 물어보며 반복 훈련했습니다. 
 
-&lt;h1 id=&quot;실기-시험-일부-4종-세트&quot;&gt;실기 시험 (일부) 4종 세트&lt;/h1&gt;
-&lt;p&gt;저녁 식사 후에는 평가 세트를 진행했습니다. 
+
+# 실기 시험 (일부) 4종 세트
+저녁 식사 후에는 평가 세트를 진행했습니다. 
 평영 50m
 횡영 50m
 잠영 25m
 중량물(5kg) 25m
-입영 8분&lt;/p&gt;
+입영 8분
 
-&lt;p&gt;중량물은 어제보다는 멀리 3분의 2지점까지는 한번에 이동했는데 그 이후 중량물을 놓쳐서 또 실패했네요.&lt;/p&gt;
+중량물은 어제보다는 멀리 3분의 2지점까지는 한번에 이동했는데 그 이후 중량물을 놓쳐서 또 실패했네요. 
 
-&lt;p&gt;차츰 나아지고 있는 것 같긴한데 뭉친 근육의 피로도가 풀리지를 않아서 힘이 안들어가는 상황이라 걱정입니다.&lt;/p&gt;
+차츰 나아지고 있는 것 같긴한데 뭉친 근육의 피로도가 풀리지를 않아서 힘이 안들어가는 상황이라 걱정입니다. 
 
-&lt;p&gt;특히 입영은 실력이 더디 느는 것 같습니다.&lt;/p&gt;
+특히 입영은 실력이 더디 느는 것 같습니다. 
 
-&lt;p&gt;그래도 5일차에는 완주를 목표로 또 달려보겠습니다.&lt;/p&gt;
+그래도 5일차에는 완주를 목표로 또 달려보겠습니다. 
 
-&lt;h1 id=&quot;인원&quot;&gt;인원&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;총원 29명&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;hr /&gt;
-&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day2&quot;&gt;2일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day3&quot;&gt;3일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;4일차 교육 후기 (현재글)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day5&quot;&gt;5일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day6&quot;&gt;6일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day7&quot;&gt;7일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day8&quot;&gt;8일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day9&quot;&gt;9일차 필기/실기 검정 후기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+# 인원
+ - 총원 29명
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;amp;educode2=02&amp;amp;edutypecode=01&quot;&gt;대한적십자사 인명구조요원 수강신청 바로가기&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+---
+# 목차
+- [1일차 교육 후기][day-1]
+- [2일차 교육 후기][day-2]
+- [3일차 교육 후기][day-3]
+- 4일차 교육 후기 (현재글)
+- [5일차 교육 후기][day-5]
+- [6일차 교육 후기][day-6]
+- [7일차 교육 후기][day-7]
+- [8일차 교육 후기][day-8]
+- [9일차 필기/실기 검정 후기][day-9]
 
-&lt;hr /&gt;
+&lt;BR /&gt;
 
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
+&gt; [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
+&lt;BR /&gt;
+
+---
+
+# 댓글
+&lt;script src=&quot;https://utteranc.es/client.js&quot;
+        repo=&quot;neoroman/neoroman.github.io&quot;
+        issue-term=&quot;pathname&quot;
+        label=&quot;utterances&quot;
+        theme=&quot;github-light&quot;
+        crossorigin=&quot;anonymous&quot;
+        async&gt;
 &lt;/script&gt;
 
-&lt;hr /&gt;</content><author><name></name></author><category term="Lifeguard" /><summary type="html">4일차 입영하는 동기들</summary></entry><entry><title type="html">[라이프가드] 대한적십자사 서울지부 8기 3일차 교육 후기</title><link href="https://neoroman.github.io/RedCross-Lifeguard-day3/" rel="alternate" type="text/html" title="[라이프가드] 대한적십자사 서울지부 8기 3일차 교육 후기" /><published>2023-08-03T00:29:00+09:00</published><updated>2023-08-03T00:29:00+09:00</updated><id>https://neoroman.github.io/RedCross-Lifeguard-day3</id><content type="html" xml:base="https://neoroman.github.io/RedCross-Lifeguard-day3/">&lt;p&gt;&lt;img src=&quot;https://github.com/neoroman/neoroman.github.io/raw/main/_images/lifeguard/Lifeguard-day3.jpg&quot; alt=&quot;3일차 트러젠하는 동기들&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;3일차 트러젠하는 동기들&lt;/center&gt;
+---
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;장소-올림픽수영장-다이빙풀수심-5m&quot;&gt;장소: 올림픽수영장 다이빙풀(수심 5m)&lt;/h2&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;3일차-후기&quot;&gt;3일차 후기&lt;/h2&gt;
-
-&lt;p&gt;걱정을 안고 시작한 3일차 교육은 평영 영법 교정, 횡영 영법 교정 후 입영 기초를 배우며 여유롭게 시작했습니다.&lt;/p&gt;
-
-&lt;p&gt;“뭐지,  3, 4일차가 고비랬는데…?!?”&lt;/p&gt;
-
-&lt;p&gt;이어 킥판을 앞으로 잡고 로터리킥으로 전진,
-킥판을 안고 누워 로터리킥으로 후진을 2~3세트 실시
-그리고 스컬링과 입영을 순서대로 실시하고 잠시 휴식&lt;/p&gt;
-
-&lt;p&gt;이어 영법 훈련으로 평영 25m, 횡영 25m, 트러젠 25m, 기본 배영 25m 을 한 세트로 4~5개 실시하였습니다.&lt;/p&gt;
-
-&lt;p&gt;기본 배영을 응용하여 익수자를 25m 씩 이동시키는 훈련을 동기들과 짝을 지어 실시했습니다. 기본 배영은 할만했는데 이는 의식이 있는 익수자인 경우에 사용하는 것이고 &lt;del&gt;의식이 없는 익수자는 목과 겨드랑이를 한 팔로 견착 후 구조횡영으로 이동&lt;/del&gt;시키는데 이 때 부터 신호가 오더리구요.  심장이 요동 치기 시작했습니다.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    (Update 2023.08.12) 수료 후 다시 읽어보니 잘 못 된 부분이 있어서 정정합니다. 
-    구조 배영은 구조자 의식과 관계없이 수행할 수 있으나, 
-    가습잡기(체스트 Chest)는 의식이 없는 구조자에는 하면 안된다고 합니다. 
-    이유는 익수자가 나중에 의식이 돌아왔을때 수상인명구조요원이 목을 졸른 것으로 
-    법적으로 소를 제기할 수 있기때문이랍니다. 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;2일차에 중량물 이동을 성공하지 못한 저로서는 이게 어쩌면 익수자 구조 훈련이 도움이 될까하여 열심히 하긴했는데 익수자 역할하는 동기는 잘 떠있어 그냥 끌어 25m 이동하는 것은 상대적으로 쉽더라구요.&lt;/p&gt;
-
-&lt;h1 id=&quot;실기-시험-일부-5종-세트&quot;&gt;실기 시험 (일부) 5종 세트&lt;/h1&gt;
-&lt;p&gt;저녁 식사 후 본격적으로 실기 시험 본 세트를 모두 이어서 3세트를 실시했습니다.&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;평영 50m (수경 착용)&lt;/li&gt;
-  &lt;li&gt;횡영 50m (수경 x)&lt;/li&gt;
-  &lt;li&gt;잠영 25m (수경 착용)&lt;/li&gt;
-  &lt;li&gt;다리벌려 뛰기 + 헤드업 자유형 20m, 5m 잠영 후 중량물(5kg) 끌어올려 반대편으로 25m 구조 횡영 또는 기본 배영으로 이동 (수경 x)&lt;/li&gt;
-  &lt;li&gt;입영 3분 (수경 x)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;저는 세번째 세트에서 퍼져서 다리가 더 이상 말을 듣지 않아서 잠시 열외했네요. ㅠㅠ 
-오늘도 역시 중량물 25m 를 한번에 가는 것은 실패했습니다.&lt;/p&gt;
-
-&lt;p&gt;동기들 중에 중량물은 잘하는데 25m 잠영은 간혹 실패하는 동기들도 오늘은 모두 한 번에 성공했습니다. 어제 강사님의 “잠영은 하면할수록 는다”는 사실로 밝혀졌네요. ㅎㅎ&lt;/p&gt;
-
-&lt;p&gt;마지막 세트의 입영 3분 후 허벅지(특히 왼쪽, 제가 오른발 잡이라)가 터질 듯 하더라구요.&lt;/p&gt;
-
-&lt;p&gt;왜 영법 훈련에 평영을 강조하는지 이제 알것 같더라구요. 익수자 구조시에도 가장 많이 사용하는 것이 평영킥이고 입영의 로터리킥도 결국 평영 킥을 좌우 번갈아 힘을 안배하는 것이니깐요.&lt;/p&gt;
-
-&lt;p&gt;3일차는 입영의 날이었는데 실기 시험 시 입영을 손목까지 수면에 내놓은채 5분을 채워야 통과된다네요. 허벅지가 버텨줄지 ……&lt;/p&gt;
-
-&lt;p&gt;3일차 건강한 동기들 앞세워 억지로 억지로 끝낸 느낌이라 4일차가 두렵네요. ㅡ,ㅡ&lt;/p&gt;
-
-&lt;p&gt;최면 걸면서 잠을 청합니다. ”할 수 있다! 할 수 있다!“&lt;/p&gt;
-
-&lt;h1 id=&quot;인원&quot;&gt;인원&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;총원 29명&lt;/li&gt;
-  &lt;li&gt;3일차에 1명 그만둠&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day1&quot;&gt;1일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day2&quot;&gt;2일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;3일차 교육 후기 (현재글)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day4&quot;&gt;4일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day5&quot;&gt;5일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day6&quot;&gt;6일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day7&quot;&gt;7일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day8&quot;&gt;8일차 교육 후기&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RedCross-Lifeguard-day9&quot;&gt;9일차 필기/실기 검정 후기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;amp;educode2=02&amp;amp;edutypecode=01&quot;&gt;대한적십자사 인명구조요원 수강신청 바로가기&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;댓글&quot;&gt;댓글&lt;/h1&gt;
-&lt;script src=&quot;https://utteranc.es/client.js&quot; repo=&quot;neoroman/neoroman.github.io&quot; issue-term=&quot;pathname&quot; label=&quot;utterances&quot; theme=&quot;github-light&quot; crossorigin=&quot;anonymous&quot; async=&quot;&quot;&gt;
-&lt;/script&gt;
-
-&lt;hr /&gt;</content><author><name></name></author><category term="Lifeguard" /><summary type="html">3일차 트러젠하는 동기들</summary></entry></feed>
+[day-1]: /RedCross-Lifeguard-day1
+[day-2]: /RedCross-Lifeguard-day2
+[day-3]: /RedCross-Lifeguard-day3
+[day-4]: /RedCross-Lifeguard-day4
+[day-5]: /RedCross-Lifeguard-day5
+[day-6]: /RedCross-Lifeguard-day6
+[day-7]: /RedCross-Lifeguard-day7
+[day-8]: /RedCross-Lifeguard-day8
+[day-9]: /RedCross-Lifeguard-day9
+[redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&amp;educode2=02&amp;edutypecode=01</content><author><name></name></author><category term="Lifeguard" /><summary type="html">4일차 입영하는 동기들</summary></entry></feed>

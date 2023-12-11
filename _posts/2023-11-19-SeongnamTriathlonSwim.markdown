@@ -105,7 +105,8 @@ categories: Swimming, Triathlon
 
 ---
 # 수영관련 다른글도 읽어보기
-- [2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)][dongjak]
+- [2023 제28회 대전 전국 마스터즈 수영대회 참가 후기 (생애 두번째 대회)][daejeon2023]
+- [2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)][dongjak2023]
 - [2023 대한적십사자 서울지부 인명구조요원 1일차 교육 후기][day-1]
 
 <BR />
@@ -119,6 +120,7 @@ categories: Swimming, Triathlon
 
 [finis-tempotrainer]: http://www.finis.co.kr/shop/item.php?it_id=1431492636
 [lap]: http://www.swimrecords.info/races/sungnam2023/history.php
-[dongjak]: /DongJakGuSwimRace
+[dongjak2023]: /DongJakGuSwimRace
+[daejeon2023]: /DaejeonMastersSwimRace
 [day-1]: /RedCross-Lifeguard-day1
 [redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&educode2=02&edutypecode=01
