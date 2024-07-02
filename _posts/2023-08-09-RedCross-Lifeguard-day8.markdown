@@ -66,10 +66,6 @@ categories: Lifeguard
 
 
 <BR />
-
-> [대한적십자사 인명구조요원 수강신청 바로가기][redcross]
-<BR />
-
 ---
 
 # 댓글
@@ -81,6 +77,22 @@ categories: Lifeguard
         crossorigin="anonymous"
         async>
 </script>
+
+<BR />
+
+---
+
+# 수영관련 다른글도 읽어보기
+- [2024 생활스포츠지도사 2급 수영 실기/구술 합격 후기][CommunitySportsInstructor]
+- [2023 대전마스터즈수영대회 참가 후기 (생애 두번째)][DaejeonMasters]
+- [2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)][DongJakGu2023]
+- [2023 성남시체육회장배 철인3종 장거리 수영대회][triathlon2023]
+<BR />
+
+---
+
+> [대한적십자사 인명구조요원 수강신청 바로가기][redcross]{:target="_blank"}
+<BR />
 
 ---
 
@@ -94,3 +106,7 @@ categories: Lifeguard
 [day-8]: /RedCross-Lifeguard-day8
 [day-9]: /RedCross-Lifeguard-day9
 [redcross]: https://www.redcross.or.kr/learn/edu/edu.do?educode1=02&educode2=02&edutypecode=01
+[CommunitySportsInstructor]: /CommunitySportsInstructor
+[DaejeonMasters]: /DaejeonMastersSwimRace
+[DongJakGu2023]: /DongJakGuSwimRace
+[triathlon2023]: /SeongnamTriathlonSwim

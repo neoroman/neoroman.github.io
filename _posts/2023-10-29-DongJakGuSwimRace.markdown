@@ -115,6 +115,7 @@ categories: Swimming, Competition
 
 ---
 # 수영관련 다른글도 읽어보기
+- [2024 생활스포츠지도사 2급 수영 실기/구술 합격 후기][CommunitySportsInstructor]
 - [2023 제28회 대전 전국 마스터즈 수영대회 참가 후기 (생애 두번째 대회)][daejeon2023]
 - [2023 성남시체육회장배 철인3종 장거리 수영대회][triathlon2023]
 - [2023 대한적십자사 서울지부 인명구조요원 1일차 교육 후기][day-1]
@@ -127,6 +128,7 @@ categories: Swimming, Competition
 <BR />
 
 ---
+[CommunitySportsInstructor]: /CommunitySportsInstructor
 [triathlon2023]: /SeongnamTriathlonSwim
 [daejeon2023]: /DaejeonMastersSwimRace
 [day-1]: /RedCross-Lifeguard-day1

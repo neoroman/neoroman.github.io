@@ -105,6 +105,7 @@ categories: Swimming, Triathlon
 
 ---
 # 수영관련 다른글도 읽어보기
+- [2024 생활스포츠지도사 2급 수영 실기/구술 합격 후기][CommunitySportsInstructor]
 - [2023 제28회 대전 전국 마스터즈 수영대회 참가 후기 (생애 두번째 대회)][daejeon2023]
 - [2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)][dongjak2023]
 - [2023 대한적십사자 서울지부 인명구조요원 1일차 교육 후기][day-1]
@@ -118,6 +119,7 @@ categories: Swimming, Triathlon
 
 ---
 
+[CommunitySportsInstructor]: /CommunitySportsInstructor
 [finis-tempotrainer]: http://www.finis.co.kr/shop/item.php?it_id=1431492636
 [lap]: http://www.swimrecords.info/races/sungnam2023/history.php
 [dongjak2023]: /DongJakGuSwimRace
