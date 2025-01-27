@@ -161,6 +161,13 @@ categories: Swimming, 생활스포츠지도사2급, 생활체육지도사2급, �
 <BR />
 
 
+
+## 2024년 12월 6일 드디어 자격증 발행
+* 생활스포츠지도사 자격증
+![생활스포츠지도사 자격증](https://github.com/neoroman/neoroman.github.io/raw/main/_images/CommunitySportsInstructor/LifeSportsInstructorCertification.jpg)
+* [자격증 진위 확인](https://sqms.kspo.or.kr/license/licenseTrueCheck.kspo)
+![자격증 진위 확인](https://github.com/neoroman/neoroman.github.io/raw/main/_images/CommunitySportsInstructor/LifeSportsInstructorVerificationOfCertificateAuthenticiry.png)
+
 ---
 
 # 댓글
@@ -176,18 +183,19 @@ categories: Swimming, 생활스포츠지도사2급, 생활체육지도사2급, �
 <BR />
 
 ---
-# 생활스포츠지도사 합격 후기들
-- [2023년 생활스포츠지도사 2급 수영 실기 구술 후기/실기 합격! - 붕붕이][Blog1]{:target="_blank"}
-- [2023년 생활스포츠지도사 2급 수영 합격 후기 및 준비과정! - 붕붕이][Blog2]{:target="_blank"}
-
-<BR />
-
----
 # 수영관련 다른글도 읽어보기
 - [2023 대전마스터즈수영대회 참가 후기 (생애 두번째)][DaejeonMasters]
 - [2023 동작구수영연맹회장배 수영대회 참가 후기 (생애 첫 대회)][DongJakGu2023]
 - [2023 성남시체육회장배 철인3종 장거리 수영대회][triathlon2023]
 - [2023 대한적십자사 서울지부 인명구조요원 1일차 교육 후기][day-1]
+
+<BR />
+
+
+---
+# 생활스포츠지도사 합격 후기들
+- [2023년 생활스포츠지도사 2급 수영 실기 구술 후기/실기 합격! - 붕붕이][Blog1]{:target="_blank"}
+- [2023년 생활스포츠지도사 2급 수영 합격 후기 및 준비과정! - 붕붕이][Blog2]{:target="_blank"}
 
 <BR />
 
